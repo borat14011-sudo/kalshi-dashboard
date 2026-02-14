@@ -3718,10 +3718,10 @@ function renderPositions(d){
 function renderTrades(d){
   const t=d.recent_trades||[];
   if(!t.length){document.getElementById('tradeLog').innerHTML='<p style="color:var(--dim);padding:20px">No recent trades</p>';return}
-  let h='<table><thead><tr><th>Time</th><th>Ticker</th><th>Side</th><th>Qty</th><th>Price</th></tr></thead><tbody>';
+  let h='<table><thead><tr><th>Time</th><th>Market</th><th>Side</th><th>Qty</th><th>Price</th></tr></thead><tbody>';
   t.slice(0,20).forEach(r=>{
     const action=r.action||r.side||'buy';
-    h+=`<tr><td style="color:var(--dim);font-size:12px">${esc(r.time||r.created_time||'')}</td><td style="font-weight:600">${esc(r.ticker)}</td><td><span class="badge badge-${action}">${action.toUpperCase()}</span></td><td>${r.quantity||r.count||0}</td><td>${fmt(r.price)}c</td></tr>`;
+    h+=`<tr><td style="color:var(--dim);font-size:12px">${esc(r.time||r.created_time||'')}</td><td><div style="font-weight:600">${esc(r.ticker)}</div><div style="color:var(--dim);font-size:12px;margin-top:2px">${esc(r.title||'')}</div></td><td><span class="badge badge-${action}">${action.toUpperCase()}</span></td><td>${r.quantity||r.count||0}</td><td>${fmt(r.price)}c</td></tr>`;
   });
   h+='</tbody></table>';
   document.getElementById('tradeLog').innerHTML=h;

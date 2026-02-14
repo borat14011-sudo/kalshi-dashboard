@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T16:11:54.121410+00:00Z",
+  "last_updated": "2026-02-14T16:14:54.144125+00:00Z",
   "account": {
     "balance": 95.19,
     "portfolio_value": 4.78,
@@ -41,6 +41,7 @@
   "recent_trades": [
     {
       "ticker": "KXDJTVOSTARIFFS",
+      "title": "Will the Supreme Court rule in favor of Trump in V.O.S. Selections, Inc. v. Trump",
       "side": "no",
       "action": "buy",
       "quantity": 2,
@@ -50,6 +51,7 @@
     },
     {
       "ticker": "KXGREENLAND-29",
+      "title": "Will Trump buy Greenland? - :: During Trump's term",
       "side": "no",
       "action": "buy",
       "quantity": 2,
@@ -59,6 +61,7 @@
     },
     {
       "ticker": "KXGREENLAND-29-26MAY",
+      "title": "Will Trump buy Greenland?",
       "side": "no",
       "action": "buy",
       "quantity": 2,

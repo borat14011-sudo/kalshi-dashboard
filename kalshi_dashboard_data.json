@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-14T22:19:09.587698+00:00Z",
+  "last_updated": "2026-02-14T23:19:09.771593+00:00Z",
   "account": {
-    "balance": 95.19,
-    "portfolio_value": 4.78,
-    "total_pnl": -0.06,
+    "balance": 90.38,
+    "portfolio_value": 9.56,
+    "total_pnl": -0.12,
     "total_pnl_pct": -0.1
   },
   "positions": [
@@ -11,34 +11,64 @@
       "ticker": "KXDJTVOSTARIFFS",
       "title": "Will the Supreme Court rule in favor of Trump in V.O.S. Selections, Inc. v. Trump",
       "side": "no",
-      "quantity": 2,
+      "quantity": 4,
       "entry_price": 74.0,
       "current_price": 73,
-      "pnl": -0.02,
+      "pnl": -0.04,
       "expiry": "2028-01-01T15:00:00Z"
     },
     {
       "ticker": "KXGREENLAND-29-26MAY",
       "title": "Will Trump buy Greenland?",
       "side": "no",
-      "quantity": 2,
+      "quantity": 4,
       "entry_price": 96.0,
       "current_price": 95,
-      "pnl": -0.02,
+      "pnl": -0.04,
       "expiry": "2026-05-01T14:00:00Z"
     },
     {
       "ticker": "KXGREENLAND-29",
       "title": "Will Trump buy Greenland? - :: During Trump's term",
       "side": "no",
-      "quantity": 2,
+      "quantity": 4,
       "entry_price": 69.0,
       "current_price": 68,
-      "pnl": -0.02,
+      "pnl": -0.04,
       "expiry": "2029-01-20T15:00:00Z"
     }
   ],
   "recent_trades": [
+    {
+      "ticker": "KXDJTVOSTARIFFS",
+      "title": "Will the Supreme Court rule in favor of Trump in V.O.S. Selections, Inc. v. Trump",
+      "side": "no",
+      "action": "buy",
+      "quantity": 2,
+      "yes_price": 26,
+      "no_price": 74,
+      "time": "2026-02-14T22:21:11.789407Z"
+    },
+    {
+      "ticker": "KXGREENLAND-29",
+      "title": "Will Trump buy Greenland? - :: During Trump's term",
+      "side": "no",
+      "action": "buy",
+      "quantity": 2,
+      "yes_price": 31,
+      "no_price": 69,
+      "time": "2026-02-14T22:21:10.133353Z"
+    },
+    {
+      "ticker": "KXGREENLAND-29-26MAY",
+      "title": "Will Trump buy Greenland?",
+      "side": "no",
+      "action": "buy",
+      "quantity": 2,
+      "yes_price": 4,
+      "no_price": 96,
+      "time": "2026-02-14T22:21:08.619357Z"
+    },
     {
       "ticker": "KXDJTVOSTARIFFS",
       "title": "Will the Supreme Court rule in favor of Trump in V.O.S. Selections, Inc. v. Trump",
@@ -71,7 +101,7 @@
     }
   ],
   "risk": {
-    "exposure_pct": 4.8,
+    "exposure_pct": 9.6,
     "max_drawdown_pct": -0.0,
     "diversification_score": 40
   },

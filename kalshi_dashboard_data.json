@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T21:13:39.241307+00:00Z",
+  "last_updated": "2026-02-14T21:24:05.592690+00:00Z",
   "account": {
     "balance": 95.19,
     "portfolio_value": 4.78,
@@ -78,92 +78,42 @@
   "opportunities": [],
   "news_signals": [
     {
-      "title": "Abbas accuses Israel of putting up \u2018obstacles\u2019 blocking phase 2 of Gaza ceasefire - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFlYQjdfVjdTc0NCZjk5RWlabFE3T2JORF9NNTUtcDMwX3lJY1hFRHdlSE5DYlBrUm1ySjllRi03TjZTT0RISW5OSTBmbEdabkJHV2N1eXhUNGNfQUFESF9UUmZ3dGdCaWpqR2MxNUtETjAxMHA3bEVjaXN1cUNfby1uUGRjSHZvRjk0OHF5cm5vNU5BTVIzcXRfemFZNTV2ZFNqWjdPYzJGc3l2V3o40gG0AUFVX3lxTE5GSmlTU0kxNzdfbGtIbTRJSGRkWUdXTWpkWlRmNE9kTzN1YXVLRWMtbVZOeXc2RlREMW1ZR0NKV0hnaU12d0dNamsydF82akxQTERWc3l1bW51aERQakpsVEFzLWdjWUlpRUk5TTFpcXFjYVpWX05VWmg5b0JkN185QmNjYmwxR0dmcFVKWlhTaG9kZGZjY3paYzlOQ0ozbUxac19oa1VVTEcxcmFxSEh0WjFhNQ?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 14:57:36 GMT",
-      "source": "The Times of Israel",
-      "origin": "google_news",
-      "relevance_score": 90,
-      "edge": "HIGH",
-      "category": "Israel Geopolitics",
-      "related_markets": [
-        "Israel ceasefire agreement",
-        "Netanyahu remains PM"
-      ],
-      "id": "56539f5b3ffa",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
-    },
-    {
-      "title": "SpaceX plans Valentine's Day rocket launch at Vandenberg. How to watch - The Desert Sun",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjc2ckc1Q28yUGdWSW1FTlVleURwaDVOVFFHMW9ianMxWnRlSTJPOEFRTFNwQTJ0UEZQYUZrNExuTmZBeDRlSkREeVFSSVRyQ0tQd2pwV05TalI2UXFESk9iTWdxMF9SYmdWUWtDdDdSOHd1ZXplX0JmOHpDVmxKcGNqMFpreFA3bldmZk92cXhVdHVSTU1BUm1GUVZVVmRwYThVeg?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 14:01:00 GMT",
-      "source": "The Desert Sun",
+      "title": "Hungary\u2019s Orban says EU bigger threat than Russia before April elections - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazh4dzBsY0h6X3Vmb1FmbVc3bjlFeV85NzZDRXVybHB2cGZOQkpNSlJ0V0txSUMxLUMxbFlDejdERGE2X05sbnRfaXJMVnRXTk0wMTdSM2VIcm1NYWZ3ZG1fMWNJWldzamtTSE9yOVBpNTJSaG1vSUNnRWZnWUFSdHcyOUt5MlNvVjdkM1d1YXhQYWwtdlJsaHM0Y0plaGF5ck5UY0lHMzNTbVhjeTdqUGNpNNIBuAFBVV95cUxQYjBSNXJvUDd4RXJrM3VoQ1lTQXFYMGtMNXhqNGJjN2FLWXZfVHU4M3hPX1E4eFB1eEJ1MUhGMU9NeENNNVBuT21pLTdTcmN4SVRpZnBLVnNZSXk2WnhLUUFfMEM0eXJSNnZ3ODh6d1E3WFNNTjFDM2RNSGk5SDltcmttSFY3eUpNX1NOODIyLWRESWtGTk05clZtaU1XUjV4RWZGQUg2QjlBSWp1d1NaUnpuc1JHRTdB?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 20:05:44 GMT",
+      "source": "Al Jazeera",
       "origin": "google_news",
       "relevance_score": 80,
       "edge": "HIGH",
-      "category": "SpaceX",
+      "category": "EU Politics",
       "related_markets": [
-        "SpaceX successful Starship launch",
-        "SpaceX IPO"
+        "EU policy change"
       ],
-      "id": "6d93d8baec56",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
+      "id": "b8a40912b411",
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
-      "title": "FAA Greenlights New SpaceX Starship Trajectories Over U.S. Mainland - FLYING Magazine",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hY3VTV01IWW1vUGdzSTk0azJHbERveW5CMFl6UkpQUDdobHlhcXFBREl0TVZKU2ZWb0RoR0R4SXpnWllHZVZ4SS1qbVMweEJZUk5LVHIwa3NOS2xyWUpTRkxrOE9PbUU1T2pyd2JNbmI?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 15:00:00 GMT",
-      "source": "FLYING Magazine",
+      "title": "Starmer sends UK strike group to Arctic, cites rising Russia threat as Trump pushes Greenland deal - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDZtT25nODIxTGhYOEdVZWdrRTdRYWpYQW9GM0lZQk5LVnBHUmtxcFhxWEphTXNNdGNIUFRZVF9KZzh4dXdRdHRVbmRKVWs0TGxrUlZTSkd6T0V5WlRjQ3BfbUVmU25vTHg3SEdTYUQ1S1F4X2FfT05tVDkxaV9lWXFGWmRmdUtDckxWRU5qOW01bDNJOFhhMS1ua0RNOTFiSWs4Q1lydGs2cnJST291QmxmTkNTOFJfRUhKUNIBwgFBVV95cUxQRk12UEptUGVUS1dEdWhwUTl6VU5Gel90RTFDTjltOHhEd0ljVG5SSkxwRFFtNWw2Y09FY21iM2VCTUVKS1duZktkb2IzZW9nQ1ZwTHIwS2hsYkRSd1VfZk1fNXVJTUVFX01OemNoTUs0M1AyRjdyTkpHcVhtVDhmTTEzM1R3OHNOZmtjcGxFMGpWTDVya2NWZTRmYnhqVnVhNWJRa1VYMGtxRmdyZmtmRDFSeHc3RUlzd3RlSXNIc3BkQQ?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 16:33:53 GMT",
+      "source": "Fox News",
       "origin": "google_news",
-      "relevance_score": 80,
-      "edge": "HIGH",
-      "category": "SpaceX",
-      "related_markets": [
-        "SpaceX successful Starship launch",
-        "SpaceX IPO"
-      ],
-      "id": "fa8799cd9543",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
-    },
-    {
-      "title": "Palestinian leader urges removal of Israeli \u2018obstacles\u2019 on Gaza ceasefire - Al Arabiya English",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVGFwekFmRXlhMTY0Q256VUIxMDR0V0p1ajNScWgwZFRXTlZkQkNaYTFib1FEdVFOWm5GWUNQMzBRWWVDazVPRENBTC1qaDFJZV9oVGVnQ0JVOVZfUjUzck01aW1aTjY0cWpiaWxVdjdLM2tGZHoxSXJJcDlZYi14c1FRQkxSaXVvSDI4Y2ZFRzRET0RIQlJyazNlSi04U2lkZmFqV09KTHdzVmdzVEowbWpXdXZvT0pUTTVwNGpRSGFRX3lDSGN5OdIBzgFBVV95cUxPNzBVb3hlbkRYbFo2bk9SbE1CM0MzYlljMzdfSlhUNHNuV1Y4SlM2b3pMcmlwbkRnem9UTEtBUUgtaU0tS3Z4QzZRVU56ekJGTUlXRmhQV05xZXdMZ1ZuNGFrSVBhdi1EeXJJWXM2aks2RUItMThOSnJ2czZVeHhzdl8xbmNJRDJlVWZvN0JxVG9XSjBESVRra3NHMUNCejhia1lxNzlibWZXNjN0el9ZLWtTUzUyS2V6V1pCblFWS1p4RWwwdUxOUzQzT1FHQQ?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 09:50:00 GMT",
-      "source": "Al Arabiya English",
-      "origin": "google_news",
-      "relevance_score": 80,
+      "relevance_score": 70,
       "edge": "MEDIUM",
-      "category": "Israel Geopolitics",
+      "category": "Greenland",
       "related_markets": [
-        "Israel ceasefire agreement",
-        "Netanyahu remains PM"
+        "Will the US acquire Greenland?"
       ],
-      "id": "db8a0488d2a4",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
-    },
-    {
-      "title": "Palestinian leader urges removal of all Israeli 'obstacles' on Gaza ceasefire - The Elkhart Truth",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNTdseTBRaTJUb1NpU19hcjNDaGo4ZC1yNHpHbHlqZ3FINFpjSnIwQlJab3hBMS1oTHY3eERnWEJJVGUxb21UTElzZWdjbmpXVWQxYy1YN2xqRWVOZnQxc195bFQzT3hLb01xeGpmQUk4SnY2elo5VktKX18zeHQ3dDg5MjNNNzlPaUNJcDVJelBucG11a1paVTlQMmZRNEttdkhaSGFORTRNN3Y1WWI0dlpxRlhYbHFLUnlHa2lSWlBsVlJLaEZPTl8xRFFnNUp2d2hIRHU2SzY3R3JLSVVJZ21sb0VlNUxJMWRPeEpHQjdPUEE2ZU9rZUdtWWQ?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 12:44:21 GMT",
-      "source": "The Elkhart Truth",
-      "origin": "google_news",
-      "relevance_score": 80,
-      "edge": "MEDIUM",
-      "category": "Israel Geopolitics",
-      "related_markets": [
-        "Israel ceasefire agreement",
-        "Netanyahu remains PM"
-      ],
-      "id": "95f72c50c0d4",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
+      "id": "b6d580025246",
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
     },
     {
       "title": "It Sure Looks Like This Supreme Court Justice Is Getting Ready to Retire",
       "link": "https://reddit.com/r/scotus/comments/1r45kfz/it_sure_looks_like_this_supreme_court_justice_is/",
       "pub_date": "Sat, 14 Feb 2026 00:08:28 +0000",
       "source": "r/scotus",
-      "score": 1262,
-      "num_comments": 283,
+      "score": 1389,
+      "num_comments": 337,
       "origin": "reddit",
       "relevance_score": 70,
       "edge": "LOW",
@@ -172,79 +122,45 @@
         "Supreme Court landmark ruling"
       ],
       "id": "71022a469d4f",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
     },
     {
-      "title": "Traders pivot Fed rate cut bets after CPI surprise - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTluSV9XNXl2SEgtVUcxaUNZT3U2N2hvdVIzUFNXcGZZTXF2NTZFVmdGcldBUmZfZ0Y1MHFndXJUQ1NBNTFrWjRpNFl6dEdGRk50VUdQODZ1SF9zSXdWR0ZmME83SGN2UHJLWHNzTVlIZkZWWlRuQ21KY0VSTUM5aFdwd0FEdF9KcUMyNkR6TjJHZTVzR1VaazdnaFlxQQ?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 11:33:00 GMT",
-      "source": "thestreet.com",
+      "title": "Trump ramps up Fed rate cut pressure after strong jobs, inflation reports - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wdXZDMWhzXzloeFBreVpLWDFucWhPYThLYVBqWXJWaU9yN1Eyem9KdG1qQ0UtZWRaWjJPRV8yeThzYkkzWnlRTV9fWGxZMThnSktwWEx2aTJ0cUw4NGdmMENveE9teHFmTWxEUFlvY9IBdEFVX3lxTE5pTkh0a0ZrSlpHVHZGMzI1WHdKTi1vV1BxM1BvTzlwZWhIaXVDa3pBQ2w4S3FDRjctM2c4RG5hSU1CSkozOFRVbExDMlVZeVBFYWJIakZsT2FlMTNXUENfbmdkSk5yaFRXQ1FRVkd1S3V0UC1P?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 11:00:00 GMT",
+      "source": "The Hill",
       "origin": "google_news",
       "relevance_score": 70,
-      "edge": "MEDIUM",
+      "edge": "LOW",
       "category": "Fed Rate Decision",
       "related_markets": [
         "Fed rate decision next meeting",
         "Number of rate cuts this year"
       ],
-      "id": "aa34aa4eaad2",
-      "crawled_at": "2026-02-14T15:32:03.435950+00:00"
+      "id": "8ffd756709e0",
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
-      "title": "GTA 6 to 'Freeze the Internet' on Release Day? Trailer Crosses 475 Million Views, Signals Historic Demand - The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRUNBbXN2U3l6NjJuQTBFSUtVUHJsYzRCd2JNRlBBTkVtUXpSNzBLdjJYODhLUURXekJ2cHB1YjVOTjZDQ2Y0N2p3d19SYXUyclhHY3EyZzRhS3VMbGszSFZzRnhBbzgxczRxZ25aUVdHQVZDTWVhUHIyQUh3aWxMblJITDFiZzBHMW4xRWtBcFdGRHV0YWlsS1hTV3N5UExBcjJxVnhyUk5hTXNDQmFIQnRCeHdXSkt0SThOVlFmdGwyeXhiZlZ1Z0JLNUF5SGFHUXNoQkJXcjh6YjFSSkRuaWp2MlNyODRmSFBNNlowdVA1LTVoTmJSeXFHcjhBTjdMN2dNT3FVXzN1Tjg2bmZGbTVwOA?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 12:27:53 GMT",
-      "source": "The Sunday Guardian",
+      "title": "Abbas accuses Israel of putting up \u2018obstacles\u2019 blocking phase 2 of Gaza ceasefire - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFlYQjdfVjdTc0NCZjk5RWlabFE3T2JORF9NNTUtcDMwX3lJY1hFRHdlSE5DYlBrUm1ySjllRi03TjZTT0RISW5OSTBmbEdabkJHV2N1eXhUNGNfQUFESF9UUmZ3dGdCaWpqR2MxNUtETjAxMHA3bEVjaXN1cUNfby1uUGRjSHZvRjk0OHF5cm5vNU5BTVIzcXRfemFZNTV2ZFNqWjdPYzJGc3l2V3o40gG0AUFVX3lxTE5GSmlTU0kxNzdfbGtIbTRJSGRkWUdXTWpkWlRmNE9kTzN1YXVLRWMtbVZOeXc2RlREMW1ZR0NKV0hnaU12d0dNamsydF82akxQTERWc3l1bW51aERQakpsVEFzLWdjWUlpRUk5TTFpcXFjYVpWX05VWmg5b0JkN185QmNjYmwxR0dmcFVKWlhTaG9kZGZjY3paYzlOQ0ozbUxac19oa1VVTEcxcmFxSEh0WjFhNQ?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 14:57:36 GMT",
+      "source": "The Times of Israel",
       "origin": "google_news",
       "relevance_score": 70,
-      "edge": "MEDIUM",
-      "category": "GTA VI",
-      "related_markets": [
-        "GTA VI release date",
-        "Will GTA VI be delayed?"
-      ],
-      "id": "a557d155c63c",
-      "crawled_at": "2026-02-14T15:32:12.729497+00:00"
-    },
-    {
-      "title": "SpaceX Florida rocket launch. Where to watch in Daytona, New Smyrna Beach - Daytona Beach News-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lFdFFkOUpWMDBUbTY0YXY2N1dDc2ljaUVTbWNMMmdfNGUxdVY5SUtuSFp3bFFHaXBNbDhOV0QxUHMyQVNlMWZ3YjJFSVl6QnJGMy1acEtTQzFEYkJSVUpaVC0wTGF1dzg1Yl9YV3lWaE5TS3RkbC00QzJJc3d0ZGxIM3VSWTJ6ak5BRm02b0ZyX05hc21OMWhHVGl4ZDA0YzRWM0FVRnp5OHJpR2h3dUNzWmx2VXNIRDFjSHdtR1BnU0Ftd2xoY0dGYVd0T2hwWGZnMWh3?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 11:04:00 GMT",
-      "source": "Daytona Beach News-Journal",
-      "origin": "google_news",
-      "relevance_score": 70,
-      "edge": "MEDIUM",
-      "category": "SpaceX",
-      "related_markets": [
-        "SpaceX successful Starship launch",
-        "SpaceX IPO"
-      ],
-      "id": "8380c8b262b3",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
-    },
-    {
-      "title": "Plume Expansion Spacex Launch 2-13-26",
-      "link": "https://reddit.com/r/spacex/comments/1r3vc20/plume_expansion_spacex_launch_21326/",
-      "pub_date": "Fri, 13 Feb 2026 17:26:51 +0000",
-      "source": "r/spacex",
-      "score": 148,
-      "num_comments": 5,
-      "origin": "reddit",
-      "relevance_score": 65,
       "edge": "LOW",
-      "category": "SpaceX",
+      "category": "Israel Geopolitics",
       "related_markets": [
-        "SpaceX successful Starship launch",
-        "SpaceX IPO"
+        "Israel ceasefire agreement",
+        "Netanyahu remains PM"
       ],
-      "id": "6b0e092e5f6d",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
+      "id": "56539f5b3ffa",
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
     },
     {
-      "title": "Supreme Court Schedules Opinions on Feb. 20 as Tariff Case Looms - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnc4Y05KYkZYRlByWXpwckFWcExqUU1Ya1Z3cm9McVZFWUxtYnMwTzNyMGhTSDZBX2FEQ1ZwbVRNMGc4b1ZCMFhRNVRBN1VYZGhQcFNzWW85MWwxV2U4RDVQQnhGUm44U2J1Y2V5QXZnRUFJazZSb2J3U3BBUWxzX0xIZnJFMUJfbmVSNVNTWmtqblVja2J6dmJxOVhjQTZ0cEFQeHY2WXFQbW55WEhsd0ZfMmU?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 15:35:31 GMT",
-      "source": "Bloomberg.com",
+      "title": "States ready to seize Supreme Court redistricting decision amid countdown to midterm elections - CNN",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWxuSzF0R1hndFVhRDBKblhvUkVLemFvSmdpNUp1TFZLTGdDbEMxS0hWT1I5VG1pNDBNTVFYUHVoUG8wbzA3aFcyS2hFc29nSFVycWJ3cGNTTnpFbkMzUG4wdXJYeFZzT1c3dXpoUkczajhBY29Kb3hlWkVKSW1jdUwzdw?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 14:30:47 GMT",
+      "source": "CNN",
       "origin": "google_news",
       "relevance_score": 60,
       "edge": "LOW",
@@ -252,25 +168,8 @@
       "related_markets": [
         "Supreme Court landmark ruling"
       ],
-      "id": "abb966183990",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
-    },
-    {
-      "title": "Trump uncorks Supreme Court warning in Truth Social meltdown",
-      "link": "https://reddit.com/r/scotus/comments/1r4lxu4/trump_uncorks_supreme_court_warning_in_truth/",
-      "pub_date": "Sat, 14 Feb 2026 14:25:56 +0000",
-      "source": "r/scotus",
-      "score": 183,
-      "num_comments": 59,
-      "origin": "reddit",
-      "relevance_score": 60,
-      "edge": "MEDIUM",
-      "category": "Supreme Court",
-      "related_markets": [
-        "Supreme Court landmark ruling"
-      ],
-      "id": "19fc859b0867",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
+      "id": "d1effcde59ab",
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
     },
     {
       "title": "Fed holds interest rates steady, pausing rate cuts amid economic uncertainty - Fox Business",
@@ -286,7 +185,7 @@
         "Number of rate cuts this year"
       ],
       "id": "2e79cfa36657",
-      "crawled_at": "2026-02-14T15:32:03.435950+00:00"
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
       "title": "Federal Reserve holds interest rates steady as a defiant Jerome Powell resists White House pressure - NBC News",
@@ -302,13 +201,29 @@
         "Number of rate cuts this year"
       ],
       "id": "9cf67f57c18e",
-      "crawled_at": "2026-02-14T15:32:03.435950+00:00"
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
-      "title": "GTA 6 LIVE: Release date update splits opinion on social media - Indy100",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95V1dNaXVYTXlURkVqTGtPcl9qaDNjRl9jV2pOYlE2NzhSNTVNZUQ1S09VM0ZoUVdJXzc5X3loTk5RbVVQOUI1SUNsc2xHY0xsWGNkN2FsQTVFMTRmUl9vSkI1X2hPdFBN?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 20:24:35 GMT",
-      "source": "Indy100",
+      "title": "Traders pivot Fed rate cut bets after CPI surprise - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTluSV9XNXl2SEgtVUcxaUNZT3U2N2hvdVIzUFNXcGZZTXF2NTZFVmdGcldBUmZfZ0Y1MHFndXJUQ1NBNTFrWjRpNFl6dEdGRk50VUdQODZ1SF9zSXdWR0ZmME83SGN2UHJLWHNzTVlIZkZWWlRuQ21KY0VSTUM5aFdwd0FEdF9KcUMyNkR6TjJHZTVzR1VaazdnaFlxQQ?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 11:33:00 GMT",
+      "source": "thestreet.com",
+      "origin": "google_news",
+      "relevance_score": 60,
+      "edge": "LOW",
+      "category": "Fed Rate Decision",
+      "related_markets": [
+        "Fed rate decision next meeting",
+        "Number of rate cuts this year"
+      ],
+      "id": "aa34aa4eaad2",
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
+    },
+    {
+      "title": "GTA 6 to 'Freeze the Internet' on Release Day? Trailer Crosses 475 Million Views, Signals Historic Demand - The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRUNBbXN2U3l6NjJuQTBFSUtVUHJsYzRCd2JNRlBBTkVtUXpSNzBLdjJYODhLUURXekJ2cHB1YjVOTjZDQ2Y0N2p3d19SYXUyclhHY3EyZzRhS3VMbGszSFZzRnhBbzgxczRxZ25aUVdHQVZDTWVhUHIyQUh3aWxMblJITDFiZzBHMW4xRWtBcFdGRHV0YWlsS1hTV3N5UExBcjJxVnhyUk5hTXNDQmFIQnRCeHdXSkt0SThOVlFmdGwyeXhiZlZ1Z0JLNUF5SGFHUXNoQkJXcjh6YjFSSkRuaWp2MlNyODRmSFBNNlowdVA1LTVoTmJSeXFHcjhBTjdMN2dNT3FVXzN1Tjg2bmZGbTVwOA?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 12:31:59 GMT",
+      "source": "The Sunday Guardian",
       "origin": "google_news",
       "relevance_score": 60,
       "edge": "LOW",
@@ -317,8 +232,88 @@
         "GTA VI release date",
         "Will GTA VI be delayed?"
       ],
-      "id": "ab9653dda118",
-      "crawled_at": "2026-02-14T15:32:12.728860+00:00"
+      "id": "a557d155c63c",
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
+    },
+    {
+      "title": "New GTA 6 Music Revealed By Artists - RockstarINTEL",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYmRKc1dkcm03ZlM2aWtuUURFbUlqU3dLeEdPM3IzQ0dUNWNONjJreDd0SGtsWG9rZ3E5ZjIybmtKTG90OEEwOVlnVVNhUldrWWY1Q3g0LXg2dzhzQVVfS1JpLWZja2pHNGw0LWVkOA?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 10:58:11 GMT",
+      "source": "RockstarINTEL",
+      "origin": "google_news",
+      "relevance_score": 60,
+      "edge": "LOW",
+      "category": "GTA VI",
+      "related_markets": [
+        "GTA VI release date",
+        "Will GTA VI be delayed?"
+      ],
+      "id": "439d652aa6b0",
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
+    },
+    {
+      "title": "\u2018Very lucky day\u2019: NASA, SpaceX ace astronaut launch to the space station on Friday the 13th - Spaceflight Now",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVNlMnA2WTZMRnd1RVUzT0hocXBZaDMzV0ZURXZpSk9QUmJ5TkV3QnlTY1hhdHFiMW9uVFNQOHVsdmM1SzdETndLdkVnX2pwaWpZa1J3R0h2ZHpmdmVwTzBId0VITnZpWndQcWZuLTlhQkdub0xMQXIyVnlxRGd1U1dhSV9hOXpOdXRuT2FYU0FoMXRwUlFxZHJXcUQ3bTdYRzFydUlQcFpRWnFJakpLUkpnN1YwdlJwZ3g3SnNNU0d5dy1z?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 12:54:51 GMT",
+      "source": "Spaceflight Now",
+      "origin": "google_news",
+      "relevance_score": 60,
+      "edge": "LOW",
+      "category": "SpaceX",
+      "related_markets": [
+        "SpaceX successful Starship launch",
+        "SpaceX IPO"
+      ],
+      "id": "8ef440175a27",
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
+    },
+    {
+      "title": "SpaceX plans Valentine's Day rocket launch at Vandenberg. How to watch - The Desert Sun",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjc2ckc1Q28yUGdWSW1FTlVleURwaDVOVFFHMW9ianMxWnRlSTJPOEFRTFNwQTJ0UEZQYUZrNExuTmZBeDRlSkREeVFSSVRyQ0tQd2pwV05TalI2UXFESk9iTWdxMF9SYmdWUWtDdDdSOHd1ZXplX0JmOHpDVmxKcGNqMFpreFA3bldmZk92cXhVdHVSTU1BUm1GUVZVVmRwYThVeg?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 14:01:00 GMT",
+      "source": "The Desert Sun",
+      "origin": "google_news",
+      "relevance_score": 60,
+      "edge": "LOW",
+      "category": "SpaceX",
+      "related_markets": [
+        "SpaceX successful Starship launch",
+        "SpaceX IPO"
+      ],
+      "id": "6d93d8baec56",
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
+    },
+    {
+      "title": "SpaceX Florida rocket launch. Where to watch in Daytona, New Smyrna Beach - Daytona Beach News-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lFdFFkOUpWMDBUbTY0YXY2N1dDc2ljaUVTbWNMMmdfNGUxdVY5SUtuSFp3bFFHaXBNbDhOV0QxUHMyQVNlMWZ3YjJFSVl6QnJGMy1acEtTQzFEYkJSVUpaVC0wTGF1dzg1Yl9YV3lWaE5TS3RkbC00QzJJc3d0ZGxIM3VSWTJ6ak5BRm02b0ZyX05hc21OMWhHVGl4ZDA0YzRWM0FVRnp5OHJpR2h3dUNzWmx2VXNIRDFjSHdtR1BnU0Ftd2xoY0dGYVd0T2hwWGZnMWh3?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 11:04:00 GMT",
+      "source": "Daytona Beach News-Journal",
+      "origin": "google_news",
+      "relevance_score": 60,
+      "edge": "LOW",
+      "category": "SpaceX",
+      "related_markets": [
+        "SpaceX successful Starship launch",
+        "SpaceX IPO"
+      ],
+      "id": "8380c8b262b3",
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
+    },
+    {
+      "title": "FAA Greenlights New SpaceX Starship Trajectories Over U.S. Mainland - FLYING Magazine",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hY3VTV01IWW1vUGdzSTk0azJHbERveW5CMFl6UkpQUDdobHlhcXFBREl0TVZKU2ZWb0RoR0R4SXpnWllHZVZ4SS1qbVMweEJZUk5LVHIwa3NOS2xyWUpTRkxrOE9PbUU1T2pyd2JNbmI?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 15:00:00 GMT",
+      "source": "FLYING Magazine",
+      "origin": "google_news",
+      "relevance_score": 60,
+      "edge": "LOW",
+      "category": "SpaceX",
+      "related_markets": [
+        "SpaceX successful Starship launch",
+        "SpaceX IPO"
+      ],
+      "id": "fa8799cd9543",
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
     },
     {
       "title": "Unpersuaded by Netanyahu, Trump insists on going \u2018jaw-to-jaw\u2019 with Iran and Hamas - The Times of Israel",
@@ -334,54 +329,23 @@
         "Netanyahu remains PM"
       ],
       "id": "fe172b17d2ad",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
     },
     {
-      "title": "Diplomat overseeing Gaza ceasefire says violations threaten transitional governance - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFR6ZHFvNFdWbjB5d0Z3OXhZZmFzUDA4UE80SXd2MUV4MUxtTFlrRnF0MmUyM2xzdVdGRlpSSXlTMm92T2RVelIxdmVwY2RpZFpRTW00d043Yl8wZ0hETkk3Y21RTW56cmZsWWtiaFNtenhRQlVnSVRzQ25WQnNsdW4wZGdtVTlOdUlNa3hKalhYOUl0MGw4SFNJUUpjMTRwNDZLTWQ5U0VGY2k0bE8tQkxqczRvdlgwNDZobldCbVBTdw?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 19:22:00 GMT",
-      "source": "AP News",
+      "title": "Hamas: Disarmament depends on Israel's commitment to ceasefire - news.cgtn.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR19NMlpGVlZqMGVXWlpwUU53VnZtM0c2TDBIS1Z4OWVZRkZZRzlVMDNHRWNCdFVkNDIwRHZkeWxaelhRMmlmNVlJNlRBMV80LUMyY3d0QzFGbHF5VUJudlQ5dG1zNklJZlFGUmZ6UHhQVnFJS29tXzBSMTdWZFdIcDVSSDMwX195TFpyOVJ6SHJqbG1idU9Jazlwelh3Q2RzX0RzZTVGTmJzZmxJNDdQUHJRdkNtLXFnMmc?oc=5",
+      "pub_date": "Thu, 12 Feb 2026 14:51:59 GMT",
+      "source": "news.cgtn.com",
       "origin": "google_news",
       "relevance_score": 60,
-      "edge": "LOW",
+      "edge": "NONE",
       "category": "Israel Geopolitics",
       "related_markets": [
         "Israel ceasefire agreement",
         "Netanyahu remains PM"
       ],
-      "id": "bbaba9c0b380",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
-    },
-    {
-      "title": "There Is Still No Ceasefire in Sight for the People of Gaza - Jacobin",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44aVFLMmV3WVFhcUducWJSeDR6Sl9JUXNYWVFNb19LMXlDUXBlN3VRd1IwUm5jN2U3ODQwLXVaam9ZR2dsY1AwQ1dXQ2MzR2g2Tkt5aXl0RHlzQktmQTAxelJGTDB5dnFZYnptaQ?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 20:34:55 GMT",
-      "source": "Jacobin",
-      "origin": "google_news",
-      "relevance_score": 60,
-      "edge": "LOW",
-      "category": "Israel Geopolitics",
-      "related_markets": [
-        "Israel ceasefire agreement",
-        "Netanyahu remains PM"
-      ],
-      "id": "6564143e5ed4",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
-    },
-    {
-      "title": "European Parliament Votes Overwhelmingly For \"The Full Recognition Of Trans Women As Women\" - erininthemorning.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmNBNGxjdXREdjVSVEc3TGVjbjBKYUNQeXFfelhCcFRJTnlHd3RYYy1NR2JmTkxBdXdLT2hqMzhYMExWaDdUZ213ZmZybTdWcWlsNWwza0ZOSkNuWF9Ba2hTYU9aU1F0WTJEa011eFM2LWJNSkVnS2hqYS1oeFE4Yw?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 17:15:29 GMT",
-      "source": "erininthemorning.com",
-      "origin": "google_news",
-      "relevance_score": 60,
-      "edge": "LOW",
-      "category": "EU Politics",
-      "related_markets": [
-        "EU policy change"
-      ],
-      "id": "99ac82f28f58",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "id": "b2c4d2b3cd8b",
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
     },
     {
       "title": "House GOP pushes strict proof-of-citizenship requirement for voters ahead of midterm elections - PBS",
@@ -397,7 +361,7 @@
         "Senate control after midterms"
       ],
       "id": "8b1e1527694e",
-      "crawled_at": "2026-02-14T15:32:57.271648+00:00"
+      "crawled_at": "2026-02-14T21:14:38.995846+00:00"
     },
     {
       "title": "Down-ballot races at stake in Texas GOP Senate primary - The Texas Tribune",
@@ -413,54 +377,59 @@
         "Senate control after midterms"
       ],
       "id": "5f35f2a5ee38",
-      "crawled_at": "2026-02-14T15:32:57.271648+00:00"
+      "crawled_at": "2026-02-14T21:14:38.995846+00:00"
     },
     {
-      "title": "No Republicans to appear on ballot in 2026 New Mexico Senate election - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJDSGhrRThSSUtKb2RPNkJOMlgtQkV6Wm02bjA5bnY0eGRVMEZKa1ZFUEV5dU9ibWk3NjBNR2NjLVp6UzJzbk5vYkpIWEF0VndtRUNGVW5rQTVDVy0zZVZsSF9GdTNheTBBOUozV1c3aklodlNEeFlaX1puZldoSFY0d2ZXcU9RSlNxT3V4M3VLb0RpOV9yaVFnV2NZN1lkZkZ4dzY0UG1YSHkyejdvRDBsWURMSjVlV3Fn?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 13:39:43 GMT",
-      "source": "Washington Examiner",
-      "origin": "google_news",
-      "relevance_score": 60,
-      "edge": "NONE",
-      "category": "US Elections",
-      "related_markets": [
-        "2026 midterm results",
-        "Senate control after midterms"
-      ],
-      "id": "14c49f30e695",
-      "crawled_at": "2026-02-14T15:32:57.271648+00:00"
-    },
-    {
-      "title": "GTA 6 Radio Songs Reportedly Revealed - ComicBook.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xSk5jU0tobzB4SGxRa1dqVXVHcTFncWYzdmF0MXBqNGR0TnpXT18wSHF3cmlXTWF1bmVBcS1HWktfY01zVllDTDlQVUFCRTVwbXc2bU8yVFBiMDAwSGJXRGZUWmdPUE5Yc0hQN3JSVzNiWjBZVGJzWjdZdEg?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 14:56:06 GMT",
-      "source": "ComicBook.com",
-      "origin": "google_news",
+      "title": "Greenland's Jens-Frederik Nielsen Is Belle of the Ball",
+      "link": "https://reddit.com/r/geopolitics/comments/1r4vwqu/greenlands_jensfrederik_nielsen_is_belle_of_the/",
+      "pub_date": "Sat, 14 Feb 2026 21:05:27 +0000",
+      "source": "r/geopolitics",
+      "score": 1,
+      "num_comments": 1,
+      "origin": "reddit",
       "relevance_score": 55,
       "edge": "MEDIUM",
-      "category": "GTA VI",
+      "category": "Greenland",
       "related_markets": [
-        "GTA VI release date",
-        "Will GTA VI be delayed?"
+        "Will the US acquire Greenland?"
       ],
-      "id": "418cd8bbf4fa",
-      "crawled_at": "2026-02-14T15:32:12.730174+00:00"
+      "id": "efde8f46cfa1",
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
     },
     {
-      "title": "Orb\u00e1n says the EU and not Russia is Hungary's real threat ahead of April vote - kare11.com",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMURsYkR4aEZpYzk0TXlGV3ZZYThQNVE1bjIxalNOREJzZlNiM0tHeDVQNGc1V29oOFlqVWZFRGo3eU9sUHlqbXo0ZVhfTXJfQjdJRGVkYUwwaDEwTDdHVzBHTG03RGZITk54X0E4Q2VpQ0t6Q0tvMWRQMGU0WlQtUVVoZmRSRHY5QlhaekNSVExNWEJhSzE3OWNpWXVKb2tUenktMWR1Uzd1ZHpPc0RFLW1DdWpqbHRad0RaVW9PeGowN0d1U3lkaHZnbVpWLXNkVUduaXhXc0VOSFo5WHl3RHBWeUh2TmUzMWVERF9iS3NUX0Y3dGZqS296UjdFanNCMUNvMlFB?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 13:36:53 GMT",
-      "source": "kare11.com",
-      "origin": "google_news",
+      "title": "Plume Expansion Spacex Launch 2-13-26",
+      "link": "https://reddit.com/r/spacex/comments/1r3vc20/plume_expansion_spacex_launch_21326/",
+      "pub_date": "Fri, 13 Feb 2026 17:26:51 +0000",
+      "source": "r/spacex",
+      "score": 211,
+      "num_comments": 5,
+      "origin": "reddit",
+      "relevance_score": 55,
+      "edge": "NONE",
+      "category": "SpaceX",
+      "related_markets": [
+        "SpaceX successful Starship launch",
+        "SpaceX IPO"
+      ],
+      "id": "6b0e092e5f6d",
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
+    },
+    {
+      "title": "Google criticizes Europe\u2019s plan to adopt free software",
+      "link": "https://reddit.com/r/europe/comments/1r4qnzf/google_criticizes_europes_plan_to_adopt_free/",
+      "pub_date": "Sat, 14 Feb 2026 17:35:34 +0000",
+      "source": "r/europe",
+      "score": 5550,
+      "num_comments": 432,
+      "origin": "reddit",
       "relevance_score": 55,
       "edge": "MEDIUM",
       "category": "EU Politics",
       "related_markets": [
         "EU policy change"
       ],
-      "id": "78c2b2cf3512",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "id": "be970ca9586a",
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
       "title": "How a billionaire with interests in Greenland encouraged Trump to acquire the territory - The Guardian",
@@ -475,7 +444,7 @@
         "Will the US acquire Greenland?"
       ],
       "id": "49a668a9351a",
-      "crawled_at": "2026-02-14T15:31:45.993122+00:00"
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
     },
     {
       "title": "Tariff revenue soars more than 300% as U.S. awaits Supreme Court decision - CNBC",
@@ -490,7 +459,7 @@
         "Supreme Court landmark ruling"
       ],
       "id": "eadc2770c96d",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
     },
     {
       "title": "AI brings Supreme Court decisions to life - NPR",
@@ -505,22 +474,7 @@
         "Supreme Court landmark ruling"
       ],
       "id": "15a91a7860f1",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
-    },
-    {
-      "title": "Immigration is in the spotlight at the Supreme Court \u2013 and not just because of President Trump - SCOTUSblog",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTEwOWRocmJfUFlZMEswaUZCbzVmN3pBYm83VmtBRGFEYnVlMS02dDZpaVhIZ19XcXJacnFWYVUzNUllcEY2UFpzbngxZEl6bFpFaWdCZEpHOGR0dVUtUkQtN0FBSjdHUUs5bHVVNl9PRW9nZWR1a0dTZEphUG9MNWwybndQdDRtMmdvQzBmOEhnenZDMlladUhQUFpZVjBLa1UtVmZGR1B6ZHlyaVBaWFFQQjFuNFdpcTJwTnM2X3FkQTFVR3VN?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 14:32:28 GMT",
-      "source": "SCOTUSblog",
-      "origin": "google_news",
-      "relevance_score": 50,
-      "edge": "NONE",
-      "category": "Supreme Court",
-      "related_markets": [
-        "Supreme Court landmark ruling"
-      ],
-      "id": "6f91bd223331",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
     },
     {
       "title": "Supreme Court announces cases it will hear at term\u2019s end - SCOTUSblog",
@@ -535,7 +489,22 @@
         "Supreme Court landmark ruling"
       ],
       "id": "bc7e9c56a904",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
+    },
+    {
+      "title": "Immigration is in the spotlight at the Supreme Court \u2013 and not just because of President Trump - SCOTUSblog",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTEwOWRocmJfUFlZMEswaUZCbzVmN3pBYm83VmtBRGFEYnVlMS02dDZpaVhIZ19XcXJacnFWYVUzNUllcEY2UFpzbngxZEl6bFpFaWdCZEpHOGR0dVUtUkQtN0FBSjdHUUs5bHVVNl9PRW9nZWR1a0dTZEphUG9MNWwybndQdDRtMmdvQzBmOEhnenZDMlladUhQUFpZVjBLa1UtVmZGR1B6ZHlyaVBaWFFQQjFuNFdpcTJwTnM2X3FkQTFVR3VN?oc=5",
+      "pub_date": "Thu, 12 Feb 2026 14:32:28 GMT",
+      "source": "SCOTUSblog",
+      "origin": "google_news",
+      "relevance_score": 50,
+      "edge": "NONE",
+      "category": "Supreme Court",
+      "related_markets": [
+        "Supreme Court landmark ruling"
+      ],
+      "id": "6f91bd223331",
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
     },
     {
       "title": "The Fed releases its latest interest rate decision Wednesday. Here's what to expect - CNBC",
@@ -551,7 +520,7 @@
         "Number of rate cuts this year"
       ],
       "id": "6d45e404a84c",
-      "crawled_at": "2026-02-14T15:32:03.435950+00:00"
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
       "title": "Fed holds interest rates steady for first time since July - CNN",
@@ -567,7 +536,7 @@
         "Number of rate cuts this year"
       ],
       "id": "5c199a73bc5a",
-      "crawled_at": "2026-02-14T15:32:03.435950+00:00"
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
       "title": "Fed's interest rate pause bolstered by jobs data, but concerns linger - Reuters",
@@ -583,7 +552,7 @@
         "Number of rate cuts this year"
       ],
       "id": "586513c40e7e",
-      "crawled_at": "2026-02-14T15:32:03.435950+00:00"
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
       "title": "The Fed will cut interest rates \u2018a whole bunch of times\u2026substantially more than two\u2019 \u2013 David Einhorn - Seeking Alpha",
@@ -599,23 +568,7 @@
         "Number of rate cuts this year"
       ],
       "id": "1c0fbc826cf3",
-      "crawled_at": "2026-02-14T15:32:03.437978+00:00"
-    },
-    {
-      "title": "US rate futures lift June Fed cut bets after soft inflation print - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdGZTSUNrWTFueHpOckhERWpDekE3ekdtUVN2cS0yWnEtazlNQzNxZzZINVNnRUtqN20zOGxGbE1pb3pQaXZadDJtV05PeFdmMGgxV3BjcFMyeUVjTGp1N2hYLTNwdVRIeF9ETlJDbGE1cGV3WnpFa2dvYmNQcXVURTk5eEtsMl9jMld0QzJuX0V3ZDRCX1F1emtjT2VYWldUWjAzWmlkbHRaODNncFE?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 14:00:19 GMT",
-      "source": "Reuters",
-      "origin": "google_news",
-      "relevance_score": 50,
-      "edge": "NONE",
-      "category": "Fed Rate Decision",
-      "related_markets": [
-        "Fed rate decision next meeting",
-        "Number of rate cuts this year"
-      ],
-      "id": "367c768a96fe",
-      "crawled_at": "2026-02-14T15:32:03.437978+00:00"
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
       "title": "GTA 6 Latest Release Date Update Leaves Gamers Concerned, And We Can See Why - Screen Rant",
@@ -631,7 +584,7 @@
         "Will GTA VI be delayed?"
       ],
       "id": "35db1e9a3ea3",
-      "crawled_at": "2026-02-14T15:32:12.729497+00:00"
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
     },
     {
       "title": "Latest GTA 6 Predictions Point to August 2026 for Next Trailer Drop - Complex",
@@ -647,13 +600,29 @@
         "Will GTA VI be delayed?"
       ],
       "id": "4caa00415ac4",
-      "crawled_at": "2026-02-14T15:32:12.730174+00:00"
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
     },
     {
-      "title": "SpaceX\u2019s Starbase launch complex set to double in size - San Antonio Express-News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTcwa3VXeGNmT25kQ2lGVG1jZ01XTXpkY3BHZ0NMWFRfVVBFS2hoeWFPQTRTN2F0aTNyeTRXaVRYR3diSkNBNFZyNXVUbU9uWXZEVUJaOXhPSE94YjJJM1d5ZW1aVGI1bVh1RnRheXhPMW1DOWRvcUtpdmoxNHVoODZEWktLWDRSYmZTN0wwdmYyMm9YQUtMbU5Dbmx2VWVTWnNSRVNqVQ?oc=5",
-      "pub_date": "Wed, 11 Feb 2026 16:09:08 GMT",
-      "source": "San Antonio Express-News",
+      "title": "Rockstar weeks away from releasing Grand Theft Auto 6 details - TweakTown",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamh2alFzb3FMeUFNaXFqX1d5SjN3bm9kXzZfc0JtRVF6eDFjZFBsbWlqN1F4UHNvc0tYSk9fUGI0OEdTU1VQQ2dqN1RhQUdMM01NUE1pdkx1TXVCRXVmU2E5bzg5U2N4SkdqY2NGdVNEcDVhcThwR20yLU13c05BTjFaOHhPaVVIQmo5M2ZPMTMxWEdwSDFReDdiYWVBMGY1c0JBYVh5ZDhtQ1dSRG1z?oc=5",
+      "pub_date": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "source": "TweakTown",
+      "origin": "google_news",
+      "relevance_score": 50,
+      "edge": "NONE",
+      "category": "GTA VI",
+      "related_markets": [
+        "GTA VI release date",
+        "Will GTA VI be delayed?"
+      ],
+      "id": "24fba9da67d1",
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
+    },
+    {
+      "title": "NASA\u2019s SpaceX Crew-12 Launches to International Space Station - NASA (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXF6a0VUWDhsSllXWTlTMWJRZ0Z2QnNIbmNxdTNNcnlXSTByZDAxZGVSQ2lWdEhjQ2xCd0o4Q1NyWGN3MHNReHBsVV9sZ3dGUXNWQUdycldJTkZDZ3I2R2JfSWc5elFnZ2ZVM3lDN2dGTjFnYzhqdjdCUlVDblp6TC13MG96NGU4LXFyTVAwUVBUS3BNZHF6NHBLZw?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 12:21:11 GMT",
+      "source": "NASA (.gov)",
       "origin": "google_news",
       "relevance_score": 50,
       "edge": "NONE",
@@ -662,8 +631,24 @@
         "SpaceX successful Starship launch",
         "SpaceX IPO"
       ],
-      "id": "d54bb8c6a065",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
+      "id": "2271a9538ca0",
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
+    },
+    {
+      "title": "SpaceX plans Saturday Starlink launch from Vandenberg Space Force Base - KSBY News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXZuZFZ1VkhPSnJ6aHlkVGQ3UzlfaEtqREo2VG1VVV9KRjJaQTZGcWUwMEdsNEpiaEhPYjF4My1heldTckdGN2d2Y0lDY0lDUzZxWWJmMmYzenpBR1dTb01YTEZoc0c2QkNFcEFycWR4NFQtTWVyS3VmYUtFVERqUzNUNnlid1A3MnFMVndpN1I3OWhNcUVMaDlad0pIRzRzZTVoTGptSkt2N2IwZmc?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 19:42:57 GMT",
+      "source": "KSBY News",
+      "origin": "google_news",
+      "relevance_score": 50,
+      "edge": "NONE",
+      "category": "SpaceX",
+      "related_markets": [
+        "SpaceX successful Starship launch",
+        "SpaceX IPO"
+      ],
+      "id": "aa2893a427b9",
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
     },
     {
       "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida - Ars Technica",
@@ -679,7 +664,23 @@
         "SpaceX IPO"
       ],
       "id": "16ac513ab14d",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
+    },
+    {
+      "title": "SpaceX\u2019s Starbase launch complex set to double in size - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTcwa3VXeGNmT25kQ2lGVG1jZ01XTXpkY3BHZ0NMWFRfVVBFS2hoeWFPQTRTN2F0aTNyeTRXaVRYR3diSkNBNFZyNXVUbU9uWXZEVUJaOXhPSE94YjJJM1d5ZW1aVGI1bVh1RnRheXhPMW1DOWRvcUtpdmoxNHVoODZEWktLWDRSYmZTN0wwdmYyMm9YQUtMbU5Dbmx2VWVTWnNSRVNqVQ?oc=5",
+      "pub_date": "Wed, 11 Feb 2026 16:09:08 GMT",
+      "source": "San Antonio Express-News",
+      "origin": "google_news",
+      "relevance_score": 50,
+      "edge": "NONE",
+      "category": "SpaceX",
+      "related_markets": [
+        "SpaceX successful Starship launch",
+        "SpaceX IPO"
+      ],
+      "id": "d54bb8c6a065",
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
     },
     {
       "title": "Elon Musk reveals his most ambitious (and detailed) plan for Mars: 1,000 spacecraft, 20 years of launches, and a self-sustaining city of one million inhabitants on Mars by 2050 - ECOticias.com",
@@ -695,14 +696,14 @@
         "SpaceX IPO"
       ],
       "id": "cd12a23de744",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
     },
     {
       "title": "r/SpaceX Starlink 17-13 Official Launch Discussion &amp; Updates Thread!",
       "link": "https://reddit.com/r/spacex/comments/1r37013/rspacex_starlink_1713_official_launch_discussion/",
       "pub_date": "Thu, 12 Feb 2026 22:05:27 +0000",
       "source": "r/spacex",
-      "score": 21,
+      "score": 24,
       "num_comments": 1,
       "origin": "reddit",
       "relevance_score": 50,
@@ -713,7 +714,7 @@
         "SpaceX IPO"
       ],
       "id": "c6d3b32656f4",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
     },
     {
       "title": "Trump calls Israel\u2019s president \u2018disgraceful\u2019 for not pardoning Netanyahu - Al Jazeera",
@@ -729,7 +730,7 @@
         "Netanyahu remains PM"
       ],
       "id": "03434bd72701",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
     },
     {
       "title": "Israel has joined Trump's 'Board of Peace,' Netanyahu says - Reuters",
@@ -745,12 +746,12 @@
         "Netanyahu remains PM"
       ],
       "id": "7372d9b30ac8",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
     },
     {
       "title": "Trump says Israeli president \"should be ashamed\" for not pardoning Netanyahu - Axios",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaDlQZkpDejkxbFM2SUdYMFNqRjBJZFRwVk1WWXZMZkIyejdyeXRnT3NKZDlGb2RzQi1tdGJhcWdlcms4Q2pEMlhobEdoTVIwN1djZzJFUWZqT0FpT2hXSXNvNDlSQzFGanhJM0tCZEtJQmVlaXRGQXE2OXp5am5DS01YRWJzSDA?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 20:53:03 GMT",
+      "pub_date": "Thu, 12 Feb 2026 20:53:36 GMT",
       "source": "Axios",
       "origin": "google_news",
       "relevance_score": 50,
@@ -761,7 +762,7 @@
         "Netanyahu remains PM"
       ],
       "id": "6b6511c110b6",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
     },
     {
       "title": "Netanyahu leans on Trump ties as Israel heads toward elections - CNN",
@@ -777,7 +778,39 @@
         "Netanyahu remains PM"
       ],
       "id": "53685d21b56a",
-      "crawled_at": "2026-02-14T15:32:38.911031+00:00"
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
+    },
+    {
+      "title": "Diplomat overseeing Gaza ceasefire says violations threaten transitional governance - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFR6ZHFvNFdWbjB5d0Z3OXhZZmFzUDA4UE80SXd2MUV4MUxtTFlrRnF0MmUyM2xzdVdGRlpSSXlTMm92T2RVelIxdmVwY2RpZFpRTW00d043Yl8wZ0hETkk3Y21RTW56cmZsWWtiaFNtenhRQlVnSVRzQ25WQnNsdW4wZGdtVTlOdUlNa3hKalhYOUl0MGw4SFNJUUpjMTRwNDZLTWQ5U0VGY2k0bE8tQkxqczRvdlgwNDZobldCbVBTdw?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 19:22:00 GMT",
+      "source": "AP News",
+      "origin": "google_news",
+      "relevance_score": 50,
+      "edge": "NONE",
+      "category": "Israel Geopolitics",
+      "related_markets": [
+        "Israel ceasefire agreement",
+        "Netanyahu remains PM"
+      ],
+      "id": "bbaba9c0b380",
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
+    },
+    {
+      "title": "There Is Still No Ceasefire in Sight for the People of Gaza - Jacobin",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44aVFLMmV3WVFhcUducWJSeDR6Sl9JUXNYWVFNb19LMXlDUXBlN3VRd1IwUm5jN2U3ODQwLXVaam9ZR2dsY1AwQ1dXQ2MzR2g2Tkt5aXl0RHlzQktmQTAxelJGTDB5dnFZYnptaQ?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 20:34:55 GMT",
+      "source": "Jacobin",
+      "origin": "google_news",
+      "relevance_score": 50,
+      "edge": "NONE",
+      "category": "Israel Geopolitics",
+      "related_markets": [
+        "Israel ceasefire agreement",
+        "Netanyahu remains PM"
+      ],
+      "id": "6564143e5ed4",
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
     },
     {
       "title": "EU Election Observation Mission to Bangladesh deploys 90 short-term observers nationwide - EEAS",
@@ -792,13 +825,13 @@
         "EU policy change"
       ],
       "id": "6fe06b6fc3df",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
-      "title": "Why Bangladesh\u2019s election is key moment for EU leverage to protect journalists - EUobserver",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnZuZVVBYlhGa3RISkRJbDl4MUpqSFU2bERsWjZzTkxkRWMwOGhfQzFZcWNtRTQ5TnVqOEs2UFhIeGd5SXlmekFXQ2haMm9FelJldUxGWGFvbXdPaHNRLWRiMmNHNkg2Z0sxaTZkM2JJV0xPd2JhSk9keGlxNi1nN3BiYktoWndVUVBibmVqREcyTFhWN3Raa1J4ZGRYYkVnQV9nSW94b01aSkVW?oc=5",
-      "pub_date": "Tue, 10 Feb 2026 10:54:17 GMT",
-      "source": "EUobserver",
+      "title": "Introduction: The European Union in an Illiberal World - Global Policy Journal",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUV3M3QxNzRiYnhLRGd6b01pSXpQZmRGXzc3eml3Y1hxVjNMdVpDX3FzZ1V1bEpUWUFjRWpYYndDU2tJOUNCcGF0WFNqYXViTm5uaUtSU2thdVhUYktzYVRGc1NMM2pfNm5SRDFsOGdIRHRQdzRlME4tLTF2R3ZDang1dFJ3bkZDVHpQOTJsT0Myam1TZDFmZjN0VQ?oc=5",
+      "pub_date": "Wed, 11 Feb 2026 00:00:02 GMT",
+      "source": "Global Policy Journal",
       "origin": "google_news",
       "relevance_score": 50,
       "edge": "NONE",
@@ -806,8 +839,8 @@
       "related_markets": [
         "EU policy change"
       ],
-      "id": "13e3fb63b969",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "id": "1f7e0786d283",
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
       "title": "Defining the new strategic direction for European Union trade policy - Bruegel",
@@ -822,24 +855,7 @@
         "EU policy change"
       ],
       "id": "5ea881a30dcc",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
-    },
-    {
-      "title": "Billions in funding wrongly released to Hungary, says EU court\u2019s top adviser",
-      "link": "https://reddit.com/r/europe/comments/1r4hssk/billions_in_funding_wrongly_released_to_hungary/",
-      "pub_date": "Sat, 14 Feb 2026 10:56:35 +0000",
-      "source": "r/europe",
-      "score": 654,
-      "num_comments": 33,
-      "origin": "reddit",
-      "relevance_score": 50,
-      "edge": "MEDIUM",
-      "category": "EU Politics",
-      "related_markets": [
-        "EU policy change"
-      ],
-      "id": "4312ccb038be",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
       "title": "Is Donald Trump facing impeachment? What to know about midterm elections - Asbury Park Press",
@@ -855,64 +871,64 @@
         "Senate control after midterms"
       ],
       "id": "d21a2083037f",
-      "crawled_at": "2026-02-14T15:32:57.271648+00:00"
+      "crawled_at": "2026-02-14T21:14:38.995846+00:00"
     },
     {
-      "title": "SpaceX Crew-12 mission latest news: It's docking day for Dragon astronauts - Space",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGdReVYta0tjRjExS2RkYWZsb1Yyb1Z3ZzMzcUxqNWhsWTdNY21qVUFrX0dzRmFSMUdkUXlIdmNIeFlwSE9TZ1RURkVXdHlocU5XMmtSem9mSjdneUtqMW1hanZrajE3ME5QMC1yRVpIdE4zM1ROZl9OMjdqMTU0eGJlUVBWWkNjem83OUVtYzZFQQ?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 12:21:02 GMT",
-      "source": "Space",
-      "origin": "google_news",
-      "relevance_score": 45,
-      "edge": "LOW",
-      "category": "SpaceX",
-      "related_markets": [
-        "SpaceX successful Starship launch",
-        "SpaceX IPO"
-      ],
-      "id": "4fc1112b67cb",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
-    },
-    {
-      "title": "Space Coast launch schedule: - Orlando Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yc2NQYnZOdjQ2NFFHOXlCclhDaGtoQktMOUNjbnR6cXBYR2R5WjgyT0hSN29yWTdTTFRpN3AzMUdzUmhSamdFRC16R3ptbWxxQk5TdkRXeVp1dTAxa3g0YjlOZjd3UHNhUUNFamtmNFpKU01mcmZIU1I5UQ?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 11:56:30 GMT",
-      "source": "Orlando Sentinel",
-      "origin": "google_news",
-      "relevance_score": 45,
-      "edge": "LOW",
-      "category": "SpaceX",
-      "related_markets": [
-        "SpaceX successful Starship launch",
-        "SpaceX IPO"
-      ],
-      "id": "0eca2bdc2949",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
-    },
-    {
-      "title": "How a largely forgotten Supreme Court case can help prevent an executive branch takeover of federal elections",
-      "link": "https://reddit.com/r/scotus/comments/1r41nsn/how_a_largely_forgotten_supreme_court_case_can/",
-      "pub_date": "Fri, 13 Feb 2026 21:26:01 +0000",
+      "title": "Trump uncorks Supreme Court warning in Truth Social meltdown",
+      "link": "https://reddit.com/r/scotus/comments/1r4lxu4/trump_uncorks_supreme_court_warning_in_truth/",
+      "pub_date": "Sat, 14 Feb 2026 14:25:56 +0000",
       "source": "r/scotus",
-      "score": 333,
-      "num_comments": 10,
+      "score": 1822,
+      "num_comments": 353,
       "origin": "reddit",
-      "relevance_score": 40,
+      "relevance_score": 45,
       "edge": "LOW",
       "category": "Supreme Court",
       "related_markets": [
         "Supreme Court landmark ruling"
       ],
-      "id": "f64a33088f52",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
+      "id": "19fc859b0867",
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
+    },
+    {
+      "title": "Rep. Eric Burlison Leads Amicus Brief in Supreme Court Case Defending a Uniform Federal Election Day",
+      "link": "https://reddit.com/r/scotus/comments/1r4nbpb/rep_eric_burlison_leads_amicus_brief_in_supreme/",
+      "pub_date": "Sat, 14 Feb 2026 15:23:30 +0000",
+      "source": "r/scotus",
+      "score": 61,
+      "num_comments": 4,
+      "origin": "reddit",
+      "relevance_score": 45,
+      "edge": "LOW",
+      "category": "Supreme Court",
+      "related_markets": [
+        "Supreme Court landmark ruling"
+      ],
+      "id": "c2e757b85ab5",
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
+    },
+    {
+      "title": "Orb\u00e1n says the EU and not Russia is Hungary\u2019s real threat ahead of April vote - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelFJa0lTV3d5R1lyZjd1LXBHSXprdU1zaVZrcGpIVFZUVS1Tb1hUZWQ3Q3BOS0d5RE5tMmR3b2hVbmQ0dlhzc2o3ZUhjN0JQbGQyTV9kUGlkSmFWeVdtMnFLRGQ4WDcxUXdBVXNzSGx3OVVkSjJ5d0w5SUlaeG1oVllsQm44anp4R0Q0WkthT2Z4TzZ3ZWFF?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 15:58:00 GMT",
+      "source": "AP News",
+      "origin": "google_news",
+      "relevance_score": 45,
+      "edge": "LOW",
+      "category": "EU Politics",
+      "related_markets": [
+        "EU policy change"
+      ],
+      "id": "339e11bf5b2d",
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
       "title": "Neon Indian and Panama's music is returning in GTA VI",
       "link": "https://reddit.com/r/GTA6/comments/1r4g3y3/neon_indian_and_panamas_music_is_returning_in_gta/",
       "pub_date": "Sat, 14 Feb 2026 09:10:55 +0000",
       "source": "r/GTA6",
-      "score": 240,
-      "num_comments": 43,
+      "score": 365,
+      "num_comments": 49,
       "origin": "reddit",
       "relevance_score": 40,
       "edge": "LOW",
@@ -922,41 +938,7 @@
         "Will GTA VI be delayed?"
       ],
       "id": "aca687f3c662",
-      "crawled_at": "2026-02-14T15:32:12.730174+00:00"
-    },
-    {
-      "title": "Trump takes a beating from his own party amid Epstein files release and tariffs rebuke - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcl9FcXlKYUpYWGo2VUo5MFgzN3Zlbk9QSG5MU2phZVFvczVIeHJ2cGstc0lYOUowVTVUaS1qQjU0UTY2cXlkNE5lZ0hXblZaSnlmd1ZfZnF2UDZDZXVTZHVyclVOLWlHQU1CbFpLX1RUQTRtamdfQm9QY3ExVzdfSnlPank3MnPSAYwBQVVfeXFMTjJUYm9lbUNDNUJpUnF0MUNUVDBwZ3F0aGxhamtfNE9QTXB2TjZUMGl3TlNNOEJma3hfeFZkeVNvcXVvU0ZiZG02ZzhwVmo4c2hHN0ZaVm5QVGEwZkRxanlieW9hU2NXSnJpTENLYk1pOHZhSmh1bXJPaXpzV1czYzB5U0ExRkJ4ek1LMEQ?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 20:31:08 GMT",
-      "source": "CNBC",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "Trump Tariffs",
-      "related_markets": [
-        "Will Trump impose new tariffs?",
-        "US-China trade escalation",
-        "New tariff announcement by end of month"
-      ],
-      "id": "c753b3d2137e",
-      "crawled_at": "2026-02-14T15:31:30.602241+00:00"
-    },
-    {
-      "title": "Supreme Court\u2019s Next Chances to Rule on Trump\u2019s Tariffs: Feb. 20, 24 and 25 - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxNSkZSMVFOMVRWcnhLWldLSm5objNJR3ZoU3pFMFUwQ2VwNVp4LTlOb01QTWlmanJEdU9Za1pnR1ZRakVDd05ZaHl5Q21wUHdKTXdDM1R4UGItNWwydW1uQnV3MER0ejI2c1JBOERkV2E1eE9kc1ZzdElJUzFrN1RhRV9xZDI1bjVtaE9KTzlVUEs5eWNjWnIzRDR1dGdyNXpIZW12VDBKczBIWngwY3VGdTlXSFpzVzF3cEZfdGRWMEtpUWdZMzdsX1d5T0hDcC11cXJhNEluVXFXdzNKNlBDdktTUDB4LTJvUEtxMHRDaVFlcVU0d05wdnVRSnNBbm5zOW5BanNaUVJCclBuSTBRS0RncHpfdGoxZm5FX2o2Nm8yc3J1VmN5ZGN5dnRVS2VwSVoyT1NMVjZJa0xNZUlxQ1J3Y19XZVItZ0lPZVZDQjhKbXI2Y2lSOXR0cjRLY2J3SzhzbjhSck1Ec3NtUkY1bTVuTF9XVjJnUnlKRk9YLU1Cbi1qUFFGaUZPS3BfTmtWdElQTDdBckYwemZ0Z2loYkl2dnNodERPTnpsdVVuSTZhZHREUERnOFk5ZXYzRzVzY1liWUhLVm1oWU9VQUdNM2JoZUVmek1QOUZmeTdsTEFnMy0tSzlLSloyZTF1QkFBbjV5Ym5yN2RCbWVHRVdWa1dTTWJRTjlSc2c?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 17:06:16 GMT",
-      "source": "The Wall Street Journal",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "Trump Tariffs",
-      "related_markets": [
-        "Will Trump impose new tariffs?",
-        "US-China trade escalation",
-        "New tariff announcement by end of month"
-      ],
-      "id": "9e32ec683ce3",
-      "crawled_at": "2026-02-14T15:31:30.602241+00:00"
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
     },
     {
       "title": "Trump says he will issue executive order to get voter-ID requirements before midterms - CNBC",
@@ -972,7 +954,7 @@
         "Mass deportation operation"
       ],
       "id": "1e607d4adfb1",
-      "crawled_at": "2026-02-14T15:31:37.958746+00:00"
+      "crawled_at": "2026-02-14T21:13:42.764828+00:00"
     },
     {
       "title": "Trump threatens an executive order to mandate voter IDs before elections - Al Jazeera",
@@ -988,7 +970,7 @@
         "Mass deportation operation"
       ],
       "id": "90c2200a5021",
-      "crawled_at": "2026-02-14T15:31:37.958746+00:00"
+      "crawled_at": "2026-02-14T21:13:42.764828+00:00"
     },
     {
       "title": "Trump floats executive order on voter ID if SAVE Act stalls in Senate - The Hill",
@@ -1004,106 +986,46 @@
         "Mass deportation operation"
       ],
       "id": "688878aa79dc",
-      "crawled_at": "2026-02-14T15:31:37.958746+00:00"
+      "crawled_at": "2026-02-14T21:13:42.764828+00:00"
     },
     {
-      "title": "Trump\u2019s push for Greenland reveals a political weak spot, new AP-NORC poll finds - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHNkMl9ScHBxd1BDMXd5TlVvM2EzeDRMMzkyLTNMVjlKYVFUTktpV3BhMTBwUjV2RFpiRG9iTEREaXBBVDZub1FqbHdaZHUtbEtPM1VTWks1cF9EeHpjVFdaTFVpaTFTT2UxbThLc2RzZlRNdFEtSmtKRnBpN0loaDZlazFmeE9uNllDa0lOQVY2RFRuZnRVNjNxQlVfTWkzbmNNSzVQV3FqWmtDaEdyNmNpbXNXQQ?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 18:09:00 GMT",
-      "source": "AP News",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "Greenland",
-      "related_markets": [
-        "Will the US acquire Greenland?"
-      ],
-      "id": "1b32007458dd",
-      "crawled_at": "2026-02-14T15:31:45.993122+00:00"
-    },
-    {
-      "title": "Graham: \u2018Who gives a s\u2011\u2011\u2011 who owns Greenland? I don\u2019t\u2019 - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmhOUGxCakJFLWZiRDh6eTZPNlBleFROWGlDTFRzVEdOb0RCS0d1RmZ1QU1lSmJiS3NPVTlMY0xVQTRIUnV5cDdOLU9EVE1nTlFVZDc0a081OVVnR1FuelpFa182QVNuT3hhMW1leDdMWGF6am5ETTdLam1rTGs3aNIBhgFBVV95cUxQZGdrUEptNVd2QlZKQlVvaFdRVjlWOVhGZFdDWWsxak1iVlIxOUwxdkQzTnZxTXNQQm95Z0l6d2R6bTUzZUFQTTA3eTYyVUlpVzVmS3ZRZDkxY2VpWVZwS00xdGVaZl8wdGxwaGRKNE04VFRYS0hGa0NCRC1RTmFHT1hiWFZVUQ?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 17:55:00 GMT",
-      "source": "The Hill",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "Greenland",
-      "related_markets": [
-        "Will the US acquire Greenland?"
-      ],
-      "id": "6821a7b332e7",
-      "crawled_at": "2026-02-14T15:31:45.993122+00:00"
-    },
-    {
-      "title": "Lindsey Graham to allies: Get over Greenland - Politico",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelpsUGxDMVRmZzgwTExaUzNMMEhUMVctN2thTWk4X09adjFTQjB0d2hGV1V6eXg5VWdtMFl3NVB3RlVzVGtsUkJLYzM1bWlEaFdSZE82TEI1QUhnT0RzbEZISXFiZXo1WkM3LTk3SXItcmdkbzJDaXlsNWlWb19LenRxRlRCaTVZVU1RelhSZXo5bUpuNkdheg?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 16:34:20 GMT",
-      "source": "Politico",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "Greenland",
-      "related_markets": [
-        "Will the US acquire Greenland?"
-      ],
-      "id": "f3a9baaebf28",
-      "crawled_at": "2026-02-14T15:31:45.993122+00:00"
-    },
-    {
-      "title": "Danish PM says more Greenland talks due after meeting US\u2019s Marco Rubio - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalZ1N0d5cWlyVFV1UGtCRWc3UWpzOHVDNU93SWNsY1NGUUcyN21mOVdXQm9XNmsySjV4S3Jhckc5TUQtZ1BFUjZ2bE94WTZOTW0xbHE1clM1S0JENXNEd1F1SW4ySk5NdWhhQkxaaVl0MmJ1eGp3YlVNZFdaZ1ZrZWQ5emtPdzBvMU9tRWlveVFxcUlBcTVWQmZYOVFmODJTVFRsdThrSGhCVEFkWWlR0gG0AUFVX3lxTE4zOHF5bFo2MFJKQ005N3J5Vm5aNjgyWVdZakJZeTk0R1plMVAzY3pKajFHZ2tyLTlSZWcyMlVxQUc5Z0t4blN6SG9pTHY3c0N5ZWphVTRKWW1iVE5QaXFwdDhiUXA3ekR0QXYtRzE2WW16MldPQXZlaTd0NFJWdXRBOG9rM0c1allYYzVEMnJxcUNNakVxTjNhdEJlWDY4c2MyRDYtX3JIMnVuVmhXYnFpMFZObw?oc=5",
-      "pub_date": "Sat, 14 Feb 2026 04:21:07 GMT",
+      "title": "US ends temporary protected status for Yemeni refugees, asylum seekers - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkpGMU1PdnF1QnBHZGpEZjJhUWpUbDQwRFU4YmN4bGpfQ1RLdzdXNXdJaTV3TGVUQVRGZGVjLXZOTHd0S2dnYlRSTmx4clprcm1NVF9ZZEN1SHpoUEdFRHVYMnpTUjIxU3hXTTVxbzZzaFcyRXVFVmJLUmd5S3d6Z3JIR1lZaTJ6S2x5UXV3bmhSdEo3eGZJeVNIQlQ3SXVscjdKWFZnMF9xUl80U2ww0gG0AUFVX3lxTE1lVHB4RE10NmpDZlRyUTduTERnWkhWU2ZrcVBLOWVYcUtfeEpTU0RtcFR5Y3NnNlhhX0ttU0tXaTZYSW1weTR1dWJtQjk3WW1uWE5FZmtvYUVfUFBaZjJkdEs5WHJadkloaHdwVXFPOXpwR01JVEozYndmdWUzd2RybGFmU203THFTRERmSkZXa3hYQ0NkWGQ0VmY5czJ1eHl5VnQ0b2NKS0RQZlJzRFRsUUZWcA?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 07:13:19 GMT",
       "source": "Al Jazeera",
       "origin": "google_news",
       "relevance_score": 35,
       "edge": "LOW",
+      "category": "Trump Executive Orders",
+      "related_markets": [
+        "Trump executive order count",
+        "Mass deportation operation"
+      ],
+      "id": "8dca85ab6068",
+      "crawled_at": "2026-02-14T21:13:42.764828+00:00"
+    },
+    {
+      "title": "Munich Security Conference live: Danish PM says Trump's desire over Greenland still 'the same' despite ongoing talks - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHTDduekZkZEFUY1ZtQ3lNazF0dzR6MzRDUDlDcThkcDh0LURTMjVzUFFNYlNWVmNpOVBpenlFSThlQ0pqOTBtb2RicUc0X0s0ZFlNZg?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 06:42:43 GMT",
+      "source": "BBC",
+      "origin": "google_news",
+      "relevance_score": 35,
+      "edge": "LOW",
       "category": "Greenland",
       "related_markets": [
         "Will the US acquire Greenland?"
       ],
-      "id": "a60f9efed295",
-      "crawled_at": "2026-02-14T15:31:45.993122+00:00"
-    },
-    {
-      "title": "Republicans Ask Supreme Court to Intervene in N.Y. Redistricting Case - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEpXa05yTjJ1TDVHa2hDaUQ0ZUtJaWVDWlJ3T3B3TWRwVDc1MG4ya0hrUHlXNmU4eFkzeVZIZXJyVmxoSVl5MktWRTJYTGR4S0J4cU1wTVJ6Rm1FblBvaHJaT3I1cDhKNFBYU01zY0hhcW5MRjd5ZXRoN3ZHMEVaWEdLbXNkQQ?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 19:39:00 GMT",
-      "source": "The New York Times",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "Supreme Court",
-      "related_markets": [
-        "Supreme Court landmark ruling"
-      ],
-      "id": "229728165b71",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
-    },
-    {
-      "title": "Hurry, you have less than 1 week to move to Norway and have a baby with someone: 'Lie together today, get GTA 6 free from us in 9 months' - PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYmowOUxZaU0yXzBUWTY1TW1fOEw4M2VFTUpyeFZJZ2dsaWM1OEZUVFptbVBZN0FPSnVfaWhTanJGckppblM1cHIyUWRtd1FkS2M2QXlVSzNtWDl1NHQ1MDBBbEJQeHVBNk5PMUlVbkFOLXA0TUVRWW13UHdQWGRKZ0s1LXNhREd1UGpoZDEwUUxpYkpjbmRlRlhKVEZDZGVCeVFpMkxQX1B3ZVlvVk5JajdteTVPdEhnLWM3ODVVckhIOERxQ090UmdNOXRscVh3TVVRUWpiVllWV05pQXI1ck85aUNhSUVORlN0LU9nOXdTaGtOMVFfUmQwcUNnMjhJRmZPYWtWMHdwSFBz?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 16:49:34 GMT",
-      "source": "PC Gamer",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "GTA VI",
-      "related_markets": [
-        "GTA VI release date",
-        "Will GTA VI be delayed?"
-      ],
-      "id": "5ab06b745a48",
-      "crawled_at": "2026-02-14T15:32:12.730174+00:00"
+      "id": "947558ad82aa",
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
     },
     {
       "title": "[Countdown] GTA 6 Release Day Countdown Timer ",
       "link": "https://reddit.com/r/GTA6/comments/1oqbu56/countdown_gta_6_release_day_countdown_timer/",
       "pub_date": "Thu, 06 Nov 2025 21:40:05 +0000",
       "source": "r/GTA6",
-      "score": 11939,
-      "num_comments": 1275,
+      "score": 11944,
+      "num_comments": 1274,
       "origin": "reddit",
       "relevance_score": 35,
       "edge": "NONE",
@@ -1113,59 +1035,13 @@
         "Will GTA VI be delayed?"
       ],
       "id": "2ebe9eeed5d7",
-      "crawled_at": "2026-02-14T15:32:12.730174+00:00"
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
     },
     {
-      "title": "How the Space Force Is Managing Growth at Its Busiest Launch Range - Air & Space Forces Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXhlUHMyV2RSS21KOExNT2N6cUhaYUVGY3lWLWFfbTdjaVJSQjhzVmVMYlIyYXVlYWZlZUw5VHRpd3FCRXR5d09sOVQ5eHpXcm5hT2ZhODdnT2tqb2lXczJJN1ZlcDlvTEFpbFFCZHdlS0dNWl96S2VoT01ZbGtRbXd6SDItaGo3Znh3?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 18:25:23 GMT",
-      "source": "Air & Space Forces Magazine",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "SpaceX",
-      "related_markets": [
-        "SpaceX successful Starship launch",
-        "SpaceX IPO"
-      ],
-      "id": "e8e392918557",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
-    },
-    {
-      "title": "SpaceX reportedly mulls dual-class share structure for upcoming IPO By Investing.com - Investing.com Australia",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeS1aU19KTUlScjEzZGRpS3NoQ0QxN3BNZ1Vsd0g4YUp2MkpVbzFxSS1sSm05RDBpQU9XV3NyNWwxNGh0d3JjTWFhVnlzdjhqN0VrN3hGM205dlBKdFA1RVhvVmZBM0pTaGlqNk16NUpRYWEzVy1ITExyWjFvUHBta19VUjV6VllVS0R5MHZzc0FVS3haY3dhcUJVRC1kR01VRTNzbkZvcEZCbzBORjdSRWNBZ21IQk5ZUHJISlJPOA?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 18:57:37 GMT",
-      "source": "Investing.com Australia",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "Tech IPOs",
-      "related_markets": [
-        "Major tech IPO this quarter"
-      ],
-      "id": "40fb9776bfe5",
-      "crawled_at": "2026-02-14T15:32:30.282338+00:00"
-    },
-    {
-      "title": "EU Will Pursue Policy to Protect Business Verticals - Supply Chain Brain",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFp1VHdaYkxDbkUzd3RvcEJKME5qZ003R21kOE42SnZxZVRpX1FHUTJtYWNDa0dXWWF3bGcyZFRfOEI4dWRUMUtNODJiZlIxRlR6cHRXaHpsQXd0VnhibWhaeDlPaVN5Ni11OUZJT1UtWW5XSVlSY1IzaHU1VW9saHVyX1ZPY2JucEliR1BYZ0g2bHNpZ3dXOEpCZ3JnR0lr?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 16:20:19 GMT",
-      "source": "Supply Chain Brain",
-      "origin": "google_news",
-      "relevance_score": 35,
-      "edge": "LOW",
-      "category": "EU Politics",
-      "related_markets": [
-        "EU policy change"
-      ],
-      "id": "fe4181b7addf",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
-    },
-    {
-      "title": "Virginia Supreme Court allows redistricting special election to move forward - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEwxQ2ljWTlJZmZibUFXY3hGcXNJeTBRVURZbXkwY0pKZ21OZW9QTTU4UVpOY2xFVG8tSjdDZFdGZmg4eG1oZ09Kbml0dVJva1ZCa1ppVVEyNjFHc3B5ZmluNWx0R2dxUnVNS1QwSDBnUnZ3X1ROb3ZLVHVIaGtqV19oVGFlOHAxYW5Oc2QzY0NOdDFZWFdSU0RRbTRHS1czeU5fMFlrTm1KNFByekRsY1RnV2FUUDRuUmc?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 16:00:47 GMT",
-      "source": "NBC News",
+      "title": "Two others join GOP U.S. Senate race (Updated) - New Jersey Globe",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CNjJKcnJNQW1La01tR0VGVEdHQ2g4YXI4RmNOZHJadHVja2VaLXNRYW0tNXFySjlKRUhNMndtRWt2TmFrbUQ5RG56NEtqSm5EUU5zNm1PVmFXYUlJZEgtM01zVU9obncyaXl4andRSlc5Rll2QTVNYkhxSHQ?oc=5",
+      "pub_date": "Sat, 14 Feb 2026 02:28:53 GMT",
+      "source": "New Jersey Globe",
       "origin": "google_news",
       "relevance_score": 35,
       "edge": "LOW",
@@ -1174,14 +1050,14 @@
         "2026 midterm results",
         "Senate control after midterms"
       ],
-      "id": "325db6edbd1f",
-      "crawled_at": "2026-02-14T15:32:57.271648+00:00"
+      "id": "148c5d9f379e",
+      "crawled_at": "2026-02-14T21:14:38.995846+00:00"
     },
     {
-      "title": "Americans Are Paying the Bill for Tariffs, Despite Trump\u2019s Claims - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1R6VkhjZE1GQzNlcWpTN0psa3EyVlNIc2RlOElPX1dxVFBXMU9yX194TWNDVGZhRlRHZ1VBemZnLW8tTkNOYlBDaUpEWG5IV0p4TG5zTUtjWWh1Ylh5c0NwQXpJRk9OU2dDYUpLcEgtOTZlMDM0ZXpORUFzNGJfcXRtamJoZHNDNENkZkg3YmlGQQ?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 16:59:20 GMT",
-      "source": "The New York Times",
+      "title": "Trump takes a beating from his own party amid Epstein files release and tariffs rebuke - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcl9FcXlKYUpYWGo2VUo5MFgzN3Zlbk9QSG5MU2phZVFvczVIeHJ2cGstc0lYOUowVTVUaS1qQjU0UTY2cXlkNE5lZ0hXblZaSnlmd1ZfZnF2UDZDZXVTZHVyclVOLWlHQU1CbFpLX1RUQTRtamdfQm9QY3ExVzdfSnlPank3MnPSAYwBQVVfeXFMTjJUYm9lbUNDNUJpUnF0MUNUVDBwZ3F0aGxhamtfNE9QTXB2TjZUMGl3TlNNOEJma3hfeFZkeVNvcXVvU0ZiZG02ZzhwVmo4c2hHN0ZaVm5QVGEwZkRxanlieW9hU2NXSnJpTENLYk1pOHZhSmh1bXJPaXpzV1czYzB5U0ExRkJ4ek1LMEQ?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 20:31:08 GMT",
+      "source": "CNBC",
       "origin": "google_news",
       "relevance_score": 25,
       "edge": "NONE",
@@ -1191,14 +1067,14 @@
         "US-China trade escalation",
         "New tariff announcement by end of month"
       ],
-      "id": "10a69b03ceab",
-      "crawled_at": "2026-02-14T15:31:30.602241+00:00"
+      "id": "c753b3d2137e",
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
     },
     {
-      "title": "A year in, it\u2019s official: Americans, not foreigners, are paying for Trump\u2019s tariffs - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rVWlkYVN4a2g1RVIwS1RBREhsdnBBMVQ5OUtyRTctZHU5S21jRE41cTlibDl6WVJmU0RGWU9yR2pSb1ZPOU9nMF9WakRzeHpnTHdEWmNacnRjWW40M2FZX3E2YThSa3ZBdkd4cWxiNEdGRG52bW9tYy15RWk?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 22:05:48 GMT",
-      "source": "CNN",
+      "title": "Costs from Trump's tariffs paid mainly by US firms and consumers, NY Fed says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6WnR1Mi1xLWo1Qy0wa3kyX0JZejk0TnFybjR3bWVfbXpSNzZnNnZZbTRiT3Jwc3BGblVWaFUtOXQ2cGpaT1NjRlJhRGQ3ZE1XS1hkWXdpcUk3dw?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 01:07:59 GMT",
+      "source": "BBC",
       "origin": "google_news",
       "relevance_score": 25,
       "edge": "NONE",
@@ -1208,8 +1084,42 @@
         "US-China trade escalation",
         "New tariff announcement by end of month"
       ],
-      "id": "cb9d355ae249",
-      "crawled_at": "2026-02-14T15:31:30.603034+00:00"
+      "id": "c97067abd474",
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
+    },
+    {
+      "title": "As Trump touts tariff windfall, battleground states shoulder billions in costs - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1kzejYtN1hxOGp4MFBNMjZXYjItUnBRSjJyOUZLdEIwN1VDNy0taE9QQWN6QVhhTUwyZmNUNlN4MTk0XzhwN1p2SHZtcEtTZ29jUW9URUp5d3JnNTJwdUxVWFhmN2JLd3YxalZTODhsMU9CdkdWcjU3SkRMWHhIaEdqLS1Na1YtTGQxYU1QLUZFcHpQREtTOHU3MDRWNWxPNzdOMjJYRdIBrAFBVV95cUxPaHdEa09WdHFXNXJxWXNPTENiLVdaanMtQU9VQU1Rd1hfbzFSZHNVa2VXX3BabTFBLVBvOFhpdVZESG11Q05zYTdKQ2poWGtWOUd2TmNBVXNpaTRGdGpOVHZfRE45RXhzcVVMUi1Ba3NYaElLZzR3UVFZY2pncHZCZHphVmh5aVVxcnZjaF9pQlo3cU9LZXVQSllvajhpYTlsUFVTR1hIWXdVQVBl?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 14:21:43 GMT",
+      "source": "Fox News",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "Trump Tariffs",
+      "related_markets": [
+        "Will Trump impose new tariffs?",
+        "US-China trade escalation",
+        "New tariff announcement by end of month"
+      ],
+      "id": "fee9c1966934",
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
+    },
+    {
+      "title": "Trump slams Canada as U.S. House passes symbolic vote to end tariffs - Global News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkNfUDIyZjZxczY3S2x3alBycnpOVWM3eWpiS3plZjEzcTNtaVhsbE1EdHRyTzI5RElCS0NqVGU2V0RsX3VOWTI1YVZWRThITmFpUlQ4cE1KbEc1cDBBWVdSZERFcFZldEFCQ19jYUg1TThtNklPdkZDSHhTYlRpcw?oc=5",
+      "pub_date": "Thu, 12 Feb 2026 00:18:28 GMT",
+      "source": "Global News",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "Trump Tariffs",
+      "related_markets": [
+        "Will Trump impose new tariffs?",
+        "US-China trade escalation",
+        "New tariff announcement by end of month"
+      ],
+      "id": "e296f33c0269",
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
     },
     {
       "title": "Donald Trump plans to roll back tariffs on metal and aluminium goods - Financial Times",
@@ -1226,7 +1136,7 @@
         "New tariff announcement by end of month"
       ],
       "id": "d12161e322f9",
-      "crawled_at": "2026-02-14T15:31:30.603034+00:00"
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
     },
     {
       "title": "Trump\u2019s First-Term Tariffs Crushed US Manufacturing - Cato Institute",
@@ -1243,24 +1153,7 @@
         "New tariff announcement by end of month"
       ],
       "id": "27afa5b2a08b",
-      "crawled_at": "2026-02-14T15:31:30.603034+00:00"
-    },
-    {
-      "title": "US House of Representatives votes to overturn Donald Trump\u2019s tariffs on Canada - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5acnFCcThjWl91alJsdkRjTE02ZThyazA1eVU5VC1nMmdkRnpES3VBRE02dmlabUZLN3VBQnZJdldPZV9oTFVaVjZmdTM2ZjRsMFRfaWFjNlJkaUE1b0JMWHpfeF9LWlgxWmlEbEQ5U0I?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 00:15:24 GMT",
-      "source": "Financial Times",
-      "origin": "google_news",
-      "relevance_score": 25,
-      "edge": "NONE",
-      "category": "Trump Tariffs",
-      "related_markets": [
-        "Will Trump impose new tariffs?",
-        "US-China trade escalation",
-        "New tariff announcement by end of month"
-      ],
-      "id": "6fc6cf59dd4b",
-      "crawled_at": "2026-02-14T15:31:30.603034+00:00"
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
     },
     {
       "title": "Japan says companies shouldn't take losses to join Trump trade deal - Nikkei Asia",
@@ -1277,7 +1170,24 @@
         "New tariff announcement by end of month"
       ],
       "id": "99470296aefd",
-      "crawled_at": "2026-02-14T15:31:30.603034+00:00"
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
+    },
+    {
+      "title": "US House of Representatives votes to overturn Donald Trump\u2019s tariffs on Canada - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5acnFCcThjWl91alJsdkRjTE02ZThyazA1eVU5VC1nMmdkRnpES3VBRE02dmlabUZLN3VBQnZJdldPZV9oTFVaVjZmdTM2ZjRsMFRfaWFjNlJkaUE1b0JMWHpfeF9LWlgxWmlEbEQ5U0I?oc=5",
+      "pub_date": "Thu, 12 Feb 2026 00:15:24 GMT",
+      "source": "Financial Times",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "Trump Tariffs",
+      "related_markets": [
+        "Will Trump impose new tariffs?",
+        "US-China trade escalation",
+        "New tariff announcement by end of month"
+      ],
+      "id": "6fc6cf59dd4b",
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
     },
     {
       "title": "Trump trade war has cost bourbon millions, could cause KY job cuts, distillers say - Lexington Herald Leader",
@@ -1294,7 +1204,7 @@
         "New tariff announcement by end of month"
       ],
       "id": "94aaf456190e",
-      "crawled_at": "2026-02-14T15:31:30.603034+00:00"
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
     },
     {
       "title": "U.S. House votes against Trump's tariffs on Canada - CBC",
@@ -1311,10 +1221,10 @@
         "New tariff announcement by end of month"
       ],
       "id": "0b766cd57688",
-      "crawled_at": "2026-02-14T15:31:30.603034+00:00"
+      "crawled_at": "2026-02-14T21:13:36.333034+00:00"
     },
     {
-      "title": "A Raid in a Small Town Brings Trump\u2019s Deportations to Deep-Red Idaho - The New York Times",
+      "title": "A Raid in a Small Town Brings Trump\u2019s Deportations to Deep-Red Idaho - The New York Times - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEFNMXd2dTNDZC1mQzVtR0RlT2tYUmZRVHBVSUtSTlQxcjB1WU1pQVhDTUFIQy0yTEdMQ2JLVklITTc3aVVSNGNSVEU1YkZYekVtcWIwaGV0UDdkVzM4VzR4bHVRZTJUSURtZXZNeUFTTWZITXN4LUNVdVR3YnBZSg?oc=5",
       "pub_date": "Mon, 09 Feb 2026 10:00:31 GMT",
       "source": "The New York Times",
@@ -1326,8 +1236,8 @@
         "Trump executive order count",
         "Mass deportation operation"
       ],
-      "id": "d4df9c449cad",
-      "crawled_at": "2026-02-14T15:31:37.958746+00:00"
+      "id": "c9e34eb0abe9",
+      "crawled_at": "2026-02-14T21:13:42.764828+00:00"
     },
     {
       "title": "Court rebukes Trump administration for denying immigration detainees access to lawyers - Politico",
@@ -1343,23 +1253,37 @@
         "Mass deportation operation"
       ],
       "id": "61774c3a72ba",
-      "crawled_at": "2026-02-14T15:31:37.958746+00:00"
+      "crawled_at": "2026-02-14T21:13:42.764828+00:00"
     },
     {
-      "title": "What independents think of Trump's recent immigration actions, according to a new AP-NORC poll - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDhWNGl0dWw5MTBscng2a2NnU2loOWJOdTdPajlsUHB4dlJVdGJkeXZYVE1OT0xFVWtJdElJczR3enBvT2s5ZTFLV0doN1puSzVhTkRQY3Q2VEdkeVdZUU1NSXlGZ1NWcG1FM2g5cTFRdnBDdzlzUWdhbVZySWEzMzJTVkFGZVhhTTZJXzhuQVFMLVdDQnVscWlpMkRDVE1nVHY5SEtTX0w?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 17:52:00 GMT",
+      "title": "Lindsey Graham to allies: Get over Greenland - Politico",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelpsUGxDMVRmZzgwTExaUzNMMEhUMVctN2thTWk4X09adjFTQjB0d2hGV1V6eXg5VWdtMFl3NVB3RlVzVGtsUkJLYzM1bWlEaFdSZE82TEI1QUhnT0RzbEZISXFiZXo1WkM3LTk3SXItcmdkbzJDaXlsNWlWb19LenRxRlRCaTVZVU1RelhSZXo5bUpuNkdheg?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 16:34:20 GMT",
+      "source": "Politico",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "Greenland",
+      "related_markets": [
+        "Will the US acquire Greenland?"
+      ],
+      "id": "f3a9baaebf28",
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
+    },
+    {
+      "title": "Trump\u2019s push for Greenland reveals a political weak spot, new AP-NORC poll finds - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHNkMl9ScHBxd1BDMXd5TlVvM2EzeDRMMzkyLTNMVjlKYVFUTktpV3BhMTBwUjV2RFpiRG9iTEREaXBBVDZub1FqbHdaZHUtbEtPM1VTWks1cF9EeHpjVFdaTFVpaTFTT2UxbThLc2RzZlRNdFEtSmtKRnBpN0loaDZlazFmeE9uNllDa0lOQVY2RFRuZnRVNjNxQlVfTWkzbmNNSzVQV3FqWmtDaEdyNmNpbXNXQQ?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 12:31:18 GMT",
       "source": "AP News",
       "origin": "google_news",
       "relevance_score": 25,
       "edge": "NONE",
-      "category": "Trump Executive Orders",
+      "category": "Greenland",
       "related_markets": [
-        "Trump executive order count",
-        "Mass deportation operation"
+        "Will the US acquire Greenland?"
       ],
-      "id": "1305c0f97ff5",
-      "crawled_at": "2026-02-14T15:31:37.958746+00:00"
+      "id": "1b32007458dd",
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
     },
     {
       "title": "Trump says he\u2019ll \u2018acquire\u2019 Greenland. Here\u2019s what the Constitution says - CNN",
@@ -1374,7 +1298,7 @@
         "Will the US acquire Greenland?"
       ],
       "id": "099e8ace1e9c",
-      "crawled_at": "2026-02-14T15:31:45.995329+00:00"
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
     },
     {
       "title": "Buying Greenland could cost as much as $700 billion - NBC News",
@@ -1389,7 +1313,7 @@
         "Will the US acquire Greenland?"
       ],
       "id": "da5526b8b738",
-      "crawled_at": "2026-02-14T15:31:45.995329+00:00"
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
     },
     {
       "title": "US discussing options to acquire Greenland including using military, White House says - BBC",
@@ -1404,13 +1328,13 @@
         "Will the US acquire Greenland?"
       ],
       "id": "6ce65155252d",
-      "crawled_at": "2026-02-14T15:31:45.995329+00:00"
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
     },
     {
-      "title": "America has actually tried to acquire Greenland 3 other times, as early as 1867 - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRExxZmlLSjJrS3FEQWRXWXBkTkRaWkJITTVnQ1lHMmpZY1FPUTJwLXNIS0l5bzM1WmMyV2xremVfbFVKb1Q2MnN1WHdINW84Y1ZuYXlsTEd1eVhzcHRGVlRod2xHT3VyT1RuaFBtX3A4WTlxR1JBSXJoZ3NydHV4NlZTamhNdnNMc3QyRmpoNG15Wl8td05pMVg2aDlOQzVoTVQ4SXpFU2o1NlU?oc=5",
-      "pub_date": "Thu, 08 Jan 2026 08:00:00 GMT",
-      "source": "Fortune",
+      "title": "The US and NATO can avoid catastrophe over Greenland and emerge stronger. Here\u2019s how. - Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbklIalB4Z0JqdzJaV3lsZTByUHVrZU9YMzNhcHNYVU5zTmJtakNfUkc1RVlkdWc2YUpRQTJhY2hPcXdmWWpYdENlT3RiV3FNSHBlRFNKeDBWNFBLTGlVUmp5UkV0UmlHcTI1NEZmQ3pTbW9ibFIxMkFyekw4NVBlb1pudjgzRlV5QTJDVmVld0xkcVlJMWF6Wk9jWlloVmJmcTVQQ3N0VmtZc2EtREtCd2ZhQ29vVjZ5Y2RJTEFwVURuNnQ0?oc=5",
+      "pub_date": "Sat, 17 Jan 2026 08:00:00 GMT",
+      "source": "Atlantic Council",
       "origin": "google_news",
       "relevance_score": 25,
       "edge": "NONE",
@@ -1418,8 +1342,23 @@
       "related_markets": [
         "Will the US acquire Greenland?"
       ],
-      "id": "f0713421484d",
-      "crawled_at": "2026-02-14T15:31:45.995329+00:00"
+      "id": "6476f2631e95",
+      "crawled_at": "2026-02-14T21:13:49.165168+00:00"
+    },
+    {
+      "title": "Republicans Ask Supreme Court to Intervene in N.Y. Redistricting Case - The New York Times - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEpXa05yTjJ1TDVHa2hDaUQ0ZUtJaWVDWlJ3T3B3TWRwVDc1MG4ya0hrUHlXNmU4eFkzeVZIZXJyVmxoSVl5MktWRTJYTGR4S0J4cU1wTVJ6Rm1FblBvaHJaT3I1cDhKNFBYU01zY0hhcW5MRjd5ZXRoN3ZHMEVaWEdLbXNkQQ?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 03:24:46 GMT",
+      "source": "The New York Times",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "Supreme Court",
+      "related_markets": [
+        "Supreme Court landmark ruling"
+      ],
+      "id": "c6a73c159be8",
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
     },
     {
       "title": "A guide to some of the briefs in support of ending birthright citizenship - SCOTUSblog",
@@ -1434,7 +1373,7 @@
         "Supreme Court landmark ruling"
       ],
       "id": "f719945c12cb",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
     },
     {
       "title": "The gerrymandering mess - SCOTUSblog",
@@ -1449,7 +1388,7 @@
         "Supreme Court landmark ruling"
       ],
       "id": "e931d13f6bc7",
-      "crawled_at": "2026-02-14T15:31:54.244544+00:00"
+      "crawled_at": "2026-02-14T21:13:55.150915+00:00"
     },
     {
       "title": "Fed Keeps Rates Steady - The New York Times",
@@ -1465,7 +1404,7 @@
         "Number of rate cuts this year"
       ],
       "id": "13755901cfbf",
-      "crawled_at": "2026-02-14T15:32:03.435950+00:00"
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
       "title": "Treasuries Fall as Better-than-Expected Job Data Resets Fed Bets - Bloomberg.com",
@@ -1481,7 +1420,7 @@
         "Number of rate cuts this year"
       ],
       "id": "205ccc64f0fa",
-      "crawled_at": "2026-02-14T15:32:03.437978+00:00"
+      "crawled_at": "2026-02-14T21:14:01.133876+00:00"
     },
     {
       "title": "GTA 6's First 3 Hours Have Gamers Thinking The Same Thing - GAMINGbible",
@@ -1497,7 +1436,23 @@
         "Will GTA VI be delayed?"
       ],
       "id": "d2ad997153b6",
-      "crawled_at": "2026-02-14T15:32:12.729497+00:00"
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
+    },
+    {
+      "title": "Hurry, you have less than 1 week to move to Norway and have a baby with someone: 'Lie together today, get GTA 6 free from us in 9 months' - PC Gamer",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYmowOUxZaU0yXzBUWTY1TW1fOEw4M2VFTUpyeFZJZ2dsaWM1OEZUVFptbVBZN0FPSnVfaWhTanJGckppblM1cHIyUWRtd1FkS2M2QXlVSzNtWDl1NHQ1MDBBbEJQeHVBNk5PMUlVbkFOLXA0TUVRWW13UHdQWGRKZ0s1LXNhREd1UGpoZDEwUUxpYkpjbmRlRlhKVEZDZGVCeVFpMkxQX1B3ZVlvVk5JajdteTVPdEhnLWM3ODVVckhIOERxQ090UmdNOXRscVh3TVVRUWpiVllWV05pQXI1ck85aUNhSUVORlN0LU9nOXdTaGtOMVFfUmQwcUNnMjhJRmZPYWtWMHdwSFBz?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 16:49:34 GMT",
+      "source": "PC Gamer",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "GTA VI",
+      "related_markets": [
+        "GTA VI release date",
+        "Will GTA VI be delayed?"
+      ],
+      "id": "5ab06b745a48",
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
     },
     {
       "title": "This store is giving away GTA 6 for free \u2013 if you have a baby on release day - Dexerto",
@@ -1513,23 +1468,7 @@
         "Will GTA VI be delayed?"
       ],
       "id": "fc0cab35668b",
-      "crawled_at": "2026-02-14T15:32:12.730174+00:00"
-    },
-    {
-      "title": "GTA VI Expectations And Mixed Momentum Shape Take Two Outlook - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRXJUUWU1ZUhEZzVQQVM4MHFGTXJqamN4ZjBDdVpCNFBaMlhSb2I0dlE1Y3hyWnNYYnZ1MzBkX2xFNkFWZjI2NkwxMkJCZ1VTR1ZnTTVaVFhZNmN5ZmZKWGtaOHlUbW4yUzEyelg0cS1oUnIwMkpDYnozYWdDX0tCcjc4RlVRSUU?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 17:14:20 GMT",
-      "source": "Yahoo Finance",
-      "origin": "google_news",
-      "relevance_score": 25,
-      "edge": "NONE",
-      "category": "GTA VI",
-      "related_markets": [
-        "GTA VI release date",
-        "Will GTA VI be delayed?"
-      ],
-      "id": "8763e58fc3af",
-      "crawled_at": "2026-02-14T15:32:12.730174+00:00"
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
     },
     {
       "title": "GTA 6\u2019s Massive Download Could Take Several Days To Install - HotHardware",
@@ -1545,7 +1484,23 @@
         "Will GTA VI be delayed?"
       ],
       "id": "bea3ceea427f",
-      "crawled_at": "2026-02-14T15:32:12.730174+00:00"
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
+    },
+    {
+      "title": "GTA VI Expectations And Mixed Momentum Shape Take Two Outlook - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRXJUUWU1ZUhEZzVQQVM4MHFGTXJqamN4ZjBDdVpCNFBaMlhSb2I0dlE1Y3hyWnNYYnZ1MzBkX2xFNkFWZjI2NkwxMkJCZ1VTR1ZnTTVaVFhZNmN5ZmZKWGtaOHlUbW4yUzEyelg0cS1oUnIwMkpDYnozYWdDX0tCcjc4RlVRSUU?oc=5",
+      "pub_date": "Thu, 12 Feb 2026 17:14:20 GMT",
+      "source": "Yahoo Finance",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "GTA VI",
+      "related_markets": [
+        "GTA VI release date",
+        "Will GTA VI be delayed?"
+      ],
+      "id": "8763e58fc3af",
+      "crawled_at": "2026-02-14T21:14:07.447503+00:00"
     },
     {
       "title": "SpaceX\u2019s next big South TX project isn\u2019t a rocket. Here's what to know - MySA",
@@ -1561,14 +1516,14 @@
         "SpaceX IPO"
       ],
       "id": "1fa72243d984",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
     },
     {
       "title": "Starship Development Thread #62",
       "link": "https://reddit.com/r/spacex/comments/1p2s1q4/starship_development_thread_62/",
       "pub_date": "Fri, 21 Nov 2025 07:06:21 +0000",
       "source": "r/spacex",
-      "score": 80,
+      "score": 81,
       "num_comments": 890,
       "origin": "reddit",
       "relevance_score": 25,
@@ -1579,7 +1534,7 @@
         "SpaceX IPO"
       ],
       "id": "38004375c430",
-      "crawled_at": "2026-02-14T15:32:21.989930+00:00"
+      "crawled_at": "2026-02-14T21:14:13.454579+00:00"
     },
     {
       "title": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales - CNBC",
@@ -1594,10 +1549,10 @@
         "Major tech IPO this quarter"
       ],
       "id": "32f1efd8640f",
-      "crawled_at": "2026-02-14T15:32:30.282338+00:00"
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
     },
     {
-      "title": "2026 IPO Watchlist: OpenAI, SpaceX and Other Tech Giants - Built In",
+      "title": "From OpenAI to SpaceX, These Are the Hottest IPOs to Watch in 2026 - Built In",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83Qlg3aEZqbUREYUtLWTlYV2tiU0wtRDRQQkVHWnpTY1NkSlRUUW56RWRnWVpGZzBRWHlXXzJkcHRITHg3Y1NUckRIdVR4eFRhT3JhanY4ejRtbmM?oc=5",
       "pub_date": "Wed, 04 Feb 2026 08:00:00 GMT",
       "source": "Built In",
@@ -1608,8 +1563,8 @@
       "related_markets": [
         "Major tech IPO this quarter"
       ],
-      "id": "35cdafb6a03e",
-      "crawled_at": "2026-02-14T15:32:30.282338+00:00"
+      "id": "ef52ebf50519",
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
     },
     {
       "title": "6 Trends In Tech And Startups We\u2019re Watching In 2026, From An IPO Boom To More Huge AI Deals - Crunchbase News",
@@ -1624,10 +1579,10 @@
         "Major tech IPO this quarter"
       ],
       "id": "bd48c9256214",
-      "crawled_at": "2026-02-14T15:32:30.282338+00:00"
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
     },
     {
-      "title": "8 Upcoming IPOs in 2026 - US News Money",
+      "title": "8 Upcoming IPOs in 2026 | Investing | U.S. News - US News Money",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YQV9Fd3dKUmVFZlZHTmJIaWx5VFdUbWhSaVBsWDl6cWp0ZUhvNS1jVFcwbW44Nm92dDlBQkVxa1NCbmZ2MUFlTVVFcDl6RElHX3d6eTdWTk5wbHIzankzRGZBd0hOeTByRmpLSWFVdkJvNlZ4R3ZVczVyWUFYQQ?oc=5",
       "pub_date": "Tue, 03 Feb 2026 08:00:00 GMT",
       "source": "US News Money",
@@ -1638,8 +1593,8 @@
       "related_markets": [
         "Major tech IPO this quarter"
       ],
-      "id": "b9a73210fa0c",
-      "crawled_at": "2026-02-14T15:32:30.282338+00:00"
+      "id": "fc999fa8f73d",
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
     },
     {
       "title": "This Defense Giant\u2019s Upcoming IPO Could Be a Massive Windfall for Investors - Security Clearance Jobs",
@@ -1654,7 +1609,22 @@
         "Major tech IPO this quarter"
       ],
       "id": "c64599803666",
-      "crawled_at": "2026-02-14T15:32:30.282338+00:00"
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
+    },
+    {
+      "title": "Exclusive | Anthropic Adds New Board Member as It Eyes IPO - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNjNKNE5FODluUkZRdkowZEJsYzZsN2lRRjVFY3hMSjg2NV9xODRnTWF5ZnpLVXFBOUdzLUJGM0VQaFdmbnVEMUVTUUlfaXVuMDFmNjNBSnlUR2N5bEY5LXhaWWxkM0Z0MHZSTXoyVEladXpvc3hHNDloaEI4eFNfX2dOQU9la2dDdWJBNWJSWGJkNmw5Y0xvNmZzRzB6Z0VnUG5FdkQwUDloV1ZVVkZfV1F2TkJNTzduWDNtdk1NcGllRkM0RG9weXRaZ1NzcVctMzBkWXRGTHRJV0dVWm5vRTg4aEZZeUw3QlhmbGp1bjF0ZHFWOERYaDI0WjRDV3I4aEc4dTVuSnhuQWxoaWctQkxlaF9TcVlNOFhkXy0yUkxLZFNub0xta182TFNqN29XM21jRWFYSGR3OEl5Smpjam1fVzNvMzZBTVltTTdNZElhVkhDTkR6aUxHYVZTNzBjMXNYcGVuU0NTRUpod0dfcnVzTVNMVE4zTUJnNnZR?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 15:00:00 GMT",
+      "source": "The Wall Street Journal",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "Tech IPOs",
+      "related_markets": [
+        "Major tech IPO this quarter"
+      ],
+      "id": "385985be75ef",
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
     },
     {
       "title": "CKJ.RC IPO News - Hong Kong jeweler C&K Group increases shares offered by 88% ahead of $17 million US IPO - renaissancecapital.com",
@@ -1669,7 +1639,7 @@
         "Major tech IPO this quarter"
       ],
       "id": "5a9fecebd7e6",
-      "crawled_at": "2026-02-14T15:32:30.282338+00:00"
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
     },
     {
       "title": "Elon Musk pivots SpaceX to moon from Mars as IPO approaches - Yahoo Finance",
@@ -1684,7 +1654,38 @@
         "Major tech IPO this quarter"
       ],
       "id": "7645fba878a9",
-      "crawled_at": "2026-02-14T15:32:30.282338+00:00"
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
+    },
+    {
+      "title": "SpaceX reportedly mulls dual-class share structure for upcoming IPO By Investing.com - Investing.com Australia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeS1aU19KTUlScjEzZGRpS3NoQ0QxN3BNZ1Vsd0g4YUp2MkpVbzFxSS1sSm05RDBpQU9XV3NyNWwxNGh0d3JjTWFhVnlzdjhqN0VrN3hGM205dlBKdFA1RVhvVmZBM0pTaGlqNk16NUpRYWEzVy1ITExyWjFvUHBta19VUjV6VllVS0R5MHZzc0FVS3haY3dhcUJVRC1kR01VRTNzbkZvcEZCbzBORjdSRWNBZ21IQk5ZUHJISlJPOA?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 18:57:37 GMT",
+      "source": "Investing.com Australia",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "Tech IPOs",
+      "related_markets": [
+        "Major tech IPO this quarter"
+      ],
+      "id": "40fb9776bfe5",
+      "crawled_at": "2026-02-14T21:14:19.839192+00:00"
+    },
+    {
+      "title": "Board of Peace Faces Israel Test in Washington: Next Meeting & What to Know - Military.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlJnNzNrY2NSeTJnbE9VSm53ejctVGdXa2JGZzRVY3hVUUdNNjMtMHpzeGhpQW9yNzFPODlHWmVjYUxoRVkzeHBXbE1wSER4MndLRTJBbzhFQzRGak9rckdGVXA3N2JoUDVjVGJJLVp3SVpUM2NFRWRyTUJXbzJFT3JtZ1BrSXRlWDFpU2psYld1UUo2cVktWGFNak9DbXJxdFhMam41cUVjb3k5NW5vc00wQzZmZDBfcVYtX0NiZUZUZw?oc=5",
+      "pub_date": "Thu, 12 Feb 2026 10:00:00 GMT",
+      "source": "Military.com",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "Israel Geopolitics",
+      "related_markets": [
+        "Israel ceasefire agreement",
+        "Netanyahu remains PM"
+      ],
+      "id": "de2be701aa21",
+      "crawled_at": "2026-02-14T21:14:26.609837+00:00"
     },
     {
       "title": "After Orb\u00e1n: why P\u00e9ter Magyar would not be an easy partner for the EU - EPC, European Policy Centre",
@@ -1699,13 +1700,13 @@
         "EU policy change"
       ],
       "id": "fbce8fdecf89",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
-      "title": "Orban scales up 'war or peace' campaign as Hungary heads to pivotal vote - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR2tkZm15TGVXWFdQaUhQRVFBbzdGX3BteWFMemhvUXpXMERkdUlhcElYcmhqMUI1VHc1RTVTZy1NUXhZUG9jeU8ya2hHZHVmUEtMY1h2elQ3MEZ0d0ZwVll4aEVueFlXaDZiNmJuX09ZZ29tWUx0WnI5TzVhQV9mTklSOGpRMkhSSnRPNzJyMTh4YmVueTdqd1JXX2VFQ2hES2cyU2ZZZk9SUnhCajk2Yl9DX19PZnlCdU9USlF1bkc?oc=5",
-      "pub_date": "Fri, 13 Feb 2026 12:07:39 GMT",
-      "source": "Reuters",
+      "title": "Stop the repression in Uganda - Renew Europe",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmxEZlNOS3BEeWxKdU5RbHhqLVJ3RnBrNVo5NEpvOTNfcWlmbk9ZMk9YSVM4aU1DSXRXWjZ3WGFZaVlfWmlJZmF6UHpyZDl1NDhhOFo3MDJFdDIzV1hsUjF3YlRhbHNMSndSR2RobWNvdzhucThBQlFjV2cwNHJ1aG4tQQ?oc=5",
+      "pub_date": "Thu, 12 Feb 2026 11:52:00 GMT",
+      "source": "Renew Europe",
       "origin": "google_news",
       "relevance_score": 25,
       "edge": "NONE",
@@ -1713,8 +1714,8 @@
       "related_markets": [
         "EU policy change"
       ],
-      "id": "a65e6989b582",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "id": "a11aa115e513",
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
       "title": "EU leaders agree to move ahead with \u2018Buy European\u2019 policy - The Guardian",
@@ -1729,7 +1730,7 @@
         "EU policy change"
       ],
       "id": "538a923ec4c6",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
       "title": "Joint Statement by the African Union Commissioner for Political Affairs, Peace and Security, EU High Representative for Foreign Affairs and Security Policy/Vice-President of the European Commission (HR/VP) & United Nations USG/ SRSG for Children and Ar - African Union,Peace and Security Department",
@@ -1744,7 +1745,22 @@
         "EU policy change"
       ],
       "id": "b6e7de0a99b0",
-      "crawled_at": "2026-02-14T15:32:48.088122+00:00"
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
+    },
+    {
+      "title": "EU Will Pursue Policy to Protect Business Verticals - Supply Chain Brain",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFp1VHdaYkxDbkUzd3RvcEJKME5qZ003R21kOE42SnZxZVRpX1FHUTJtYWNDa0dXWWF3bGcyZFRfOEI4dWRUMUtNODJiZlIxRlR6cHRXaHpsQXd0VnhibWhaeDlPaVN5Ni11OUZJT1UtWW5XSVlSY1IzaHU1VW9saHVyX1ZPY2JucEliR1BYZ0g2bHNpZ3dXOEpCZ3JnR0lr?oc=5",
+      "pub_date": "Fri, 13 Feb 2026 16:20:19 GMT",
+      "source": "Supply Chain Brain",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "EU Politics",
+      "related_markets": [
+        "EU policy change"
+      ],
+      "id": "fe4181b7addf",
+      "crawled_at": "2026-02-14T21:14:32.956926+00:00"
     },
     {
       "title": "Do special election results spell doom for Republicans in 2026? - The Conversation",
@@ -1760,23 +1776,7 @@
         "Senate control after midterms"
       ],
       "id": "198851e44f5d",
-      "crawled_at": "2026-02-14T15:32:57.271648+00:00"
-    },
-    {
-      "title": "Hunterdon woman trails in N.J. fundraising for Michigan U.S. Senate race - New Jersey Globe",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUjl1RU5lajUyUHVzcl81TUYtMmdTbEFZd1NodlhxOXA5YVJDVHhJV1FTOGNZSkxhbjhWbFVxVjE3OUw1TFI2c3FvVThYMWdLMFpxam9wRU52OC0wQ2RxanpRYzV1dVM1VUpRZlkyMDgzekJRa2RSdllhY25qcFVidWgxMTctNmc3d01RV3JUZWd5YXFGVTRMRjBkWDFPcGpXWHVOVF96Sy1iVm8?oc=5",
-      "pub_date": "Thu, 12 Feb 2026 23:10:44 GMT",
-      "source": "New Jersey Globe",
-      "origin": "google_news",
-      "relevance_score": 25,
-      "edge": "NONE",
-      "category": "US Elections",
-      "related_markets": [
-        "2026 midterm results",
-        "Senate control after midterms"
-      ],
-      "id": "17519c013d88",
-      "crawled_at": "2026-02-14T15:32:57.271648+00:00"
+      "crawled_at": "2026-02-14T21:14:38.995846+00:00"
     },
     {
       "title": "See the biggest donors to Texas' competitive U.S. Senate race - Houston Chronicle",
@@ -1792,7 +1792,23 @@
         "Senate control after midterms"
       ],
       "id": "56598ac9be05",
-      "crawled_at": "2026-02-14T15:32:57.271648+00:00"
+      "crawled_at": "2026-02-14T21:14:38.995846+00:00"
+    },
+    {
+      "title": "Hunterdon woman trails in N.J. fundraising for Michigan U.S. Senate race - New Jersey Globe",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUjl1RU5lajUyUHVzcl81TUYtMmdTbEFZd1NodlhxOXA5YVJDVHhJV1FTOGNZSkxhbjhWbFVxVjE3OUw1TFI2c3FvVThYMWdLMFpxam9wRU52OC0wQ2RxanpRYzV1dVM1VUpRZlkyMDgzekJRa2RSdllhY25qcFVidWgxMTctNmc3d01RV3JUZWd5YXFGVTRMRjBkWDFPcGpXWHVOVF96Sy1iVm8?oc=5",
+      "pub_date": "Thu, 12 Feb 2026 23:10:44 GMT",
+      "source": "New Jersey Globe",
+      "origin": "google_news",
+      "relevance_score": 25,
+      "edge": "NONE",
+      "category": "US Elections",
+      "related_markets": [
+        "2026 midterm results",
+        "Senate control after midterms"
+      ],
+      "id": "17519c013d88",
+      "crawled_at": "2026-02-14T21:14:38.995846+00:00"
     }
   ],
   "price_history": []
